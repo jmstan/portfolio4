@@ -1,3 +1,6 @@
+---
+---
+
 body{
      font-family: "franklin-gothic-urw";
      background-color: #f1f1f1;
@@ -84,6 +87,7 @@ a.active{
 
 
 .thumb4{
+
     background: url('{{site.url}}img/fuzethumb4.png');
         height: 300px;
         width:90%;
