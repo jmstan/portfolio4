@@ -2,11 +2,11 @@
 
 
 
-title: my Github Site
+title: Portfolio
 
-url: "http://jmstan.github.io/my-github-repo/"
+url: "http://jmstan.github.io/portfolio4/"
 
-baseurl: "my-github-repo/"
+baseurl: "portfolio4/"
 permalink: pretty
 
 collections:

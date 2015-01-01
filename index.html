@@ -3,36 +3,49 @@ layout: default
 
 ---
 
-    
+
+
+<div class="about da-all">
+   <p class="da5-da10">  I am a front-end developer living in Chicago, inspired to create clean and simple websites. I use semantic code with the       latest web standards to create beautiful and functional designs. </p>
+ </div> 
+ 
+ <div class="header2 da-all">
+      <span class="line da6-da9"> </span>
+      <p class="da-all"> Explore my latest projects </p>
+ </div>
+ 
+<div class="box1 da2-da5">
+      <div class="thumb"> </div>
+      <div class="name"> Will Smith </div>
+      <div class="caption"> Will Smith food stylist </div>
+      <div class="role"> Role: Added jQuery interactivity </div>
+      <div class="link"> Link:&nbsp;<span class="underline"> wsfoodstyle.com</span> </div>
+</div>
+ 
+<div class="box2 da6-da9" > 
+      <div class="thumb2 "> </div>
+      <div class="name"> Paper & Ink </div>
+      <div class="caption"> Paper & Ink, fine are photography printing  </div>
+      <div class="role"> Role: Design and Development </div>
+      <div class="link">Link:&nbsp;<span class="underline">github.io/paperandink</span> </div>
+</div>
+
+<div class="box3 da10-da13"> 
+      <div class="thumb3"> </div>
+      <div class="name"> Walter Moeller </div>
+       <div class="caption"> Walter Moeller is a food stylist  </div>
+      <div class="role"> Role: Squarespace Development </div>
+      <div class="link"> Link:&nbsp;<span class="underline"> waltermoeller.com</span> </div>
+</div> 
+
+<div class="box4 da2-da5"> 
+      <div class="thumb4"> </div>
+      <div class="name"> Fuze Health </div>
+      <div class="role"> Role: Wordpress </div>
+      <div class="link"> Link:&nbsp;<span class="underline">fuzehealth.org</span></div>
+</div>  
+
+
               
-                <aside>
-                    <h3>ASIDE</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante. Etiam bibendum iaculis libero, eget molestie nisl pharetra in. In semper consequat est, eu porta velit mollis nec. Curabitur posuere enim eget turpis feugiat tempor. Etiam ullamcorper lorem dapibus velit suscipit ultrices.</p>
-                </aside>
-           {% for page in site.pages %}
-
-            {% if page.tag == "show" %}
-
-           <p><a href="{{site.url}}{{page.url}}">{{page.title}}</a></p> 
-
-             {% else if page tag == "hidden" %}
-
-             {% endif %}    
-
-             {% endfor %} 
-
-
-                    <section>
-                   <h2> posts</h2>
-                {% for post in site.posts %}
-
-
-             <p> <a href="{{site.url}}{{post.url}}">{{post.title}}</a> </p>
-
-                    </section> 
-
-                        {% endfor %}       
-
-             </article>
-
+              
  
