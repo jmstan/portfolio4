@@ -1,0 +1,38 @@
+---
+layout: default
+
+---
+
+    
+              
+                <aside>
+                    <h3>ASIDE</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante. Etiam bibendum iaculis libero, eget molestie nisl pharetra in. In semper consequat est, eu porta velit mollis nec. Curabitur posuere enim eget turpis feugiat tempor. Etiam ullamcorper lorem dapibus velit suscipit ultrices.</p>
+                </aside>
+           {% for page in site.pages %}
+
+            {% if page.tag == "show" %}
+
+           <p><a href="{{site.url}}{{page.url}}">{{page.title}}</a></p> 
+
+             {% else if page tag == "hidden" %}
+
+             {% endif %}    
+
+             {% endfor %} 
+
+
+                    <section>
+                   <h2> posts</h2>
+                {% for post in site.posts %}
+
+
+             <p> <a href="{{site.url}}{{post.url}}">{{post.title}}</a> </p>
+
+                    </section> 
+
+                        {% endfor %}       
+
+             </article>
+
+ 
