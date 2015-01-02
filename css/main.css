@@ -158,8 +158,9 @@ h1 a {
     letter-spacing: 1px;
 }
 
-span.line{
-    border-top: 1px solid black;
+span.blue-line{
+    border-bottom: 1px solid #249ce0;
+     display: inline-block;
 }
 
 span.underline{
