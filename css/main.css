@@ -200,3 +200,22 @@ li.icon{
 li.icon:first-child{
     margin-left: 0px;
 }
+
+
+ul.tools, ul{
+padding-left:0px; 
+}
+
+li.tool-list{
+  float:none;
+  text-align: center;
+  font-family: "franklin-gothic-urw"; 
+  margin-top: 10px;
+  margin-left: 0px;
+  
+}
+
+
+li.tool-list a{
+  font-weight: 400;
+}
