@@ -89,8 +89,8 @@ a.active{
 .thumb4{
 
     background: url('{{site.url}}img/fuzethumb4.png');
-        height: 300px;
-        width:90%;
+    height: 300px;
+    width:100%;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
