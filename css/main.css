@@ -163,8 +163,7 @@ span.blue-line{
 }
 
 span.underline{
-    border-bottom: 1px solid #249ce0;
-    display: inline-block;
+    color:#249ce0;
 }
 
 .email{
