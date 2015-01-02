@@ -18,8 +18,21 @@ tag: show
   
    <div class="image d11-d13"> <img src="{{site.url}}img/B5B9368_SMALL2.jpg" class="portrait"></div>
 
+<div class="email-form d4-d9">
    
-<!--  <hr class="line2" /> -->
+    <form action="https://getsimpleform.com/messages?form_api_token=<form_api_token>" method="post">
+
+      <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+      <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
+
+      <!-- all your input fields here.... -->
+      <input type='text' name='test' />
+
+      <input type='submit' value='Test form' />
+    </form>
+
+</div>
+      
  
 
 <div class="asides-box da-all">
