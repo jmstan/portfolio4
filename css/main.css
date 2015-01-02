@@ -118,6 +118,11 @@ p{
   
 }
 
+p.about{
+  text-align: left;
+  margin-top: 0px;
+}
+
 p.title{
   margin-bottom: 35px;
 }
