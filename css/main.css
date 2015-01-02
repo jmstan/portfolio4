@@ -159,8 +159,7 @@ h1 a {
 }
 
 span.blue-line{
-    border-bottom: 1px solid #249ce0;
-     display: inline-block;
+ color:#249ce0;
 }
 
 span.underline{
@@ -230,6 +229,7 @@ li.tool-list{
 
 li.tool-list a{
   font-weight: 400;
+  color: #249ce0;
 }
 
 h3{
