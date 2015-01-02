@@ -180,7 +180,11 @@ p.contact{
     margin-bottom: 35px;
 }
 
+span.blue-line{
+  text-decoration: underline;
+  text-decoration-color: #249ce0;
 
+}
 
 .svg-icons{
     float:none !important;
