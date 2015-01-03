@@ -378,7 +378,7 @@ input#input_message.form-control{
   }
 
   p.title{
-    margin-top: 10%;
+    margin-top: 10% !important;
   }
 
 
