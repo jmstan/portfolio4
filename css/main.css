@@ -355,6 +355,11 @@ input#input_message.form-control{
 
   h1{
     text-align: center;
+    margin-top:5%;
+  }
+
+  .header2{
+    margin-top: 3%;
   }
 
   span.line{
@@ -368,6 +373,6 @@ input#input_message.form-control{
 
   p.title{
     width: 80%;
-    margin: 0 10%;
+    margin: 10% 10% 7%;
   }
 }
