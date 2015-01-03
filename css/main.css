@@ -360,7 +360,7 @@ input#input_message.form-control{
   height:125px;
 }
 
-@media screen and (min-width: 501px) and (max-width:989px){
+@media screen and (min-width: 641px) and (max-width:989px){
   
   .thumb3, .thumb4{
     margin-top: 12%;
@@ -370,7 +370,7 @@ input#input_message.form-control{
 
 
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 640px){
 
   h1{
     text-align: center;
