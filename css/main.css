@@ -377,6 +377,11 @@ input#input_message.form-control{
     margin: 10% 10% 7%;
   }
 
+  p.title2{
+    margin-top:0px;
+    margin-bottom: 5%;
+  }
+
   .name, .caption, .role, .link{
     text-align: center;
   }
