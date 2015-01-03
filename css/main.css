@@ -413,5 +413,8 @@ input#input_message.form-control{
     float: none;
   }
 
+ ul li:first-child{
+  margin-left: 0px;
+ }
 
 }
