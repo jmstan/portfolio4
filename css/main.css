@@ -374,7 +374,7 @@ input#input_message.form-control{
 
   p.title, p.contact{
     width: 80%;
-    margin: 10% 10% 7%;
+    margin: 0% 10%;
   }
 
   p.title2{
