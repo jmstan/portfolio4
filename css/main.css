@@ -127,7 +127,7 @@ a.active{
 
 
 .thumb2{
-    background: url('{{site.url}}img/pandithumb.png');
+    background-image: url('{{site.url}}img/pandithumb.png');
     height: 350px;
     width:100%;
     background-repeat: no-repeat;
