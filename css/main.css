@@ -388,4 +388,30 @@ input#input_message.form-control{
   .link{
     margin-bottom: 10%;
   }
+
+   nav{
+    overflow: hidden;
+  }
+
+  ul{
+    text-align: center;
+    margin: 0%;
+    margin-top: 1%;
+    overflow: hidden;
+  }
+
+  ul li{
+    list-style: none;
+    text-decoration: none;
+    margin-left: 15px;
+    margin-top: 22px;
+    overflow: hidden;
+    float: right;
+    font-size: 18px;
+    display: inline;
+    padding: 0%;
+    float: none;
+  }
+
+
 }
