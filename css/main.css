@@ -356,6 +356,14 @@ input#input_message.form-control{
   height:125px;
 }
 
+@media screen and (min-width: 769px) and (max-width:989px){
+  
+  .thumb3, .thumb4{
+    margin-top: 12%;
+  }
+
+  }
+
 
 
 @media screen and (max-width: 768px){
