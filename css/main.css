@@ -283,3 +283,12 @@ transition: border-color ease-in-out .15s,box-shadow easein-out .15s;
 input#input_message.form-control{
   height:125px;
 }
+
+
+
+@media screen and (max-width: 768px){
+
+  h1{
+    text-align: center;
+  }
+}
