@@ -366,6 +366,14 @@ input#input_message.form-control{
     margin-top: 12%;
   }
 
+  p.title{
+    margin-top: 10%;
+  }
+
+  p.contact{
+    margin-top: 5%;
+  }
+
   }
 
 
