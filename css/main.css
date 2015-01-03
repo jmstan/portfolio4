@@ -377,6 +377,12 @@ input#input_message.form-control{
     margin: 0% 10%;
   }
 
+  p.title{
+    margin-top: 5%;
+  }
+
+
+
   p.title2{
     margin-top:0px;
     margin-bottom: 5%;
