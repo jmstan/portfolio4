@@ -113,7 +113,7 @@ a.active{
 
 
 .thumb{
-    background: url('{{site.url}}img/wsthumb1.jpg');
+    background-image: url('{{site.url}}img/wsthumb1.jpg');
     width:100%;
     max-width: 100%;
     display: block;
