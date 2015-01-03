@@ -56,7 +56,9 @@ a.active{
 
 .thumb{
     background: url('{{site.url}}img/wsthumb1.png');
-    height: 350px;
+    width:100%;
+    max-width: 100%;
+    display: block;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;  
