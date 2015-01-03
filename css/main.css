@@ -214,7 +214,7 @@ h1 a {
 .link{
     font-size: 14px;
     letter-spacing: 1px;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
 .caption{
@@ -229,6 +229,7 @@ span.line{
 
 span.blue-line{
  color:#249ce0;
+ font-family: "franklin-gothic-urw";
 }
 
 span.underline{
@@ -374,5 +375,17 @@ input#input_message.form-control{
   p.title{
     width: 80%;
     margin: 10% 10% 7%;
+  }
+
+  .name, .caption, .role, .link{
+    text-align: center;
+  }
+
+  .name{
+    margin-top: 5%;
+  }
+
+  .link{
+    margin-bottom: 5%;
   }
 }
