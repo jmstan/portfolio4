@@ -356,4 +356,18 @@ input#input_message.form-control{
   h1{
     text-align: center;
   }
+
+  span.line{
+    display: none;
+  }
+
+  nav{
+    width:50%;
+    margin: 0 25%;
+  }
+
+  p.title{
+    width: 80%;
+    margin: 0 10%;
+  }
 }
