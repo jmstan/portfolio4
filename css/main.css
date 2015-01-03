@@ -372,7 +372,7 @@ input#input_message.form-control{
     margin: 0 25%;
   }
 
-  p.title{
+  p.title, p.contact{
     width: 80%;
     margin: 10% 10% 7%;
   }
