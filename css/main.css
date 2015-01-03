@@ -384,6 +384,11 @@ input#input_message.form-control{
 
 @media screen and (max-width: 640px){
 
+  .thumb, .thumb2, .thumb3, .thumb4{
+    width:96%;
+    margin: 0 2%;
+  }
+
   h1{
     text-align: center;
     margin-top:5%;
