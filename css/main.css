@@ -364,7 +364,7 @@ input#input_message.form-control{
   }
 
   span.line{
-    display: none;
+    display: none !important;
   }
 
   nav{
