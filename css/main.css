@@ -112,7 +112,7 @@ a.active{
     }
 
 
-.thumb{
+/*.thumb{
     background-image: url('{{site.url}}img/wsthumb1.png');
     width:100%;
     max-width: 100%;
@@ -121,7 +121,7 @@ a.active{
     background-position: center;
     background-size: cover;  
 
-}
+}*/
 
  
 
