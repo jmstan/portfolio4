@@ -56,7 +56,7 @@ h1.title, h2.title-2{
 
 
 .title , .title-2 , .story1_link, .story2_link, .story3_link, .return_link{
-	font-family:'Didact Gothic', sans-serif;
+	  font-family: "franklin-gothic-urw";
 	}
 
 .title, .title-2{
@@ -75,7 +75,7 @@ h1.title, h2.title-2{
 	}
 
 .story1{
-    background-image: url('../img/image6_1.jpg');
+    background-image: url('{{site.url}}img/image6_1.jpg');
     background-size: cover;
     float:left;
     height:500px;
@@ -87,7 +87,7 @@ h1.title, h2.title-2{
 	overflow: hidden;
  	float: left;
 	margin-left: 1%;	
-	background-image: url('../img/_MG_1773.jpg');
+	background-image: url('{{site.url}}img/_MG_1773.jpg');
 	background-size: cover;
 	background-position: center;
 	width:49%;
@@ -156,13 +156,11 @@ hr{
 	color:gray;
 	}
 
-.return_link a:hover{
+.return_link a:hover, .return_link a:active{
 	color:black;
 	}
 
-.return_link a:active{
-	color:black;
-	}
+
 
 
 
