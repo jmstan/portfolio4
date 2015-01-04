@@ -188,17 +188,12 @@ p.title{
     letter-spacing: 1px;
 }
 
-.role{
+.role, .link{
     margin-top: 10px;
     font-size: 14px;
     letter-spacing: 1px;
 }
 
-.link{
-    font-size: 14px;
-    letter-spacing: 1px;
-    margin-top: 10px;
-}
 
 .caption{
     font-size: 14px;
@@ -210,11 +205,11 @@ span.line{
   border-top:1px solid black;
 }
 
-span.blue-line{
+span.line: {
  color:#249ce0;
 }
 
-span.underline{
+span.blue-text{
     color:#249ce0;
 }
 
