@@ -55,7 +55,27 @@ table {
 /*--end resest----*/
 
 
+h1 {
+    font-style: normal;
+  font-weight:400;
+  }
 
+
+ 
+h1 a {
+  text-decoration: none;
+  color:black;
+  font-size: 42px;
+  font-family: "franklin-gothic-urw";
+}
+
+h1.title, h2.title-2{
+  text-align:center;
+}
+
+h1.title{
+  font-size: 24px;
+}
 
 body{
      font-family: "franklin-gothic-urw";
@@ -159,11 +179,7 @@ img{
 }
 
 
-h1 {
-  
-  font-style: normal;
-  font-weight:400;
-  }
+
   
 p{
   font-family: "franklin-gothic-urw";
@@ -182,6 +198,7 @@ p.about{
   text-align: left;
   margin-top: 0px;
   margin-bottom: 30px;
+  font-size: 18px;
 }
 
 p.title{
@@ -189,13 +206,7 @@ p.title{
   margin-top: 5%;
 }
  
- 
-h1 a {
-  text-decoration: none;
-  color:black;
-  font-size: 42px;
-  font-family: "franklin-gothic-urw";
-}
+
 
 .name{
     margin-top: 10px;
@@ -366,13 +377,7 @@ h4.interests-title{
   font-size: 20px;
 }
 
-h1.title, h2.title-2{
-  text-align:center;
-}
 
-h1.title{
-  font-size: 24px;
-}
 
  h2.title-2{
   font-size: 22px;
