@@ -75,7 +75,7 @@ h1.title, h2.title-2{
 	} */
 
 .story1{
-    background-image: url('{{site.url}}img/image6_1.jpg');
+    background-image: url('../img/image6_1.jpg');
     background-size: cover;
     float:left;
     height:500px;
