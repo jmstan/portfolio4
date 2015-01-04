@@ -497,9 +497,14 @@ h4.interests-title{
     font-size: 20px;
   }
 
-  p.title, p.contact{
+  p.title {
     width: 80% !important;
     margin: 0% 10% !important;
+  }
+
+  p.contact{
+     width: 80% !important;
+    margin: 4% 10% 0% !important;
   }
 
   p.title{
@@ -510,6 +515,10 @@ h4.interests-title{
   p.title2{
     margin-top:5% !important;
     margin-bottom: 5% !important;
+  }
+
+  p.contact{
+    font-size: 18px;
   }
 
   .name, .caption, .role, .link{
