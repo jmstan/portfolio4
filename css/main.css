@@ -469,6 +469,15 @@ h4.interests-title{
     margin-top:5%;
   }
 
+  h4.title{
+    margin-top: 7%;
+  }
+
+  h5.title-2{
+    margin-top: 5%;
+    margin-bottom: 10%;
+  }
+
   .header2{
     margin-top: 3%;
   }
@@ -507,6 +516,12 @@ h4.interests-title{
 
   .link{
     margin-bottom: 10%;
+  }
+
+
+  .blog{
+    width: 96%;
+    margin: 0 2%;
   }
 
    nav{
