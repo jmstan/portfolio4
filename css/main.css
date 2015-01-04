@@ -87,7 +87,11 @@ h6{
 body, ul li a, p, span.blue-line, li.tool-list, h1, h2, h3, h4, h5, .title , .title-2 ,
  .story1_link, .story2_link, .story3_link, .return_link  {
      font-family: "franklin-gothic-urw";
-     background-color: #f1f1f1;
+    
+}
+
+body{
+   background-color: #f1f1f1;
 }
 
 
