@@ -55,6 +55,8 @@ table {
 /*--end resest----*/
 
 
+
+
 body{
      font-family: "franklin-gothic-urw";
      background-color: #f1f1f1;
@@ -418,10 +420,9 @@ h4.interests-title{
   }
 
 
-
   p.title2{
-    margin-top:5%;
-    margin-bottom: 5%;
+    margin-top:5% !important;
+    margin-bottom: 5% !important;
   }
 
   .name, .caption, .role, .link{
