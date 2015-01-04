@@ -451,7 +451,7 @@ h4.interests-title{
   }
 
    .blog{
-    width:100%;
+    width:100% !important;
   }
 }
 
