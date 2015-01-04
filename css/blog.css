@@ -87,7 +87,7 @@ h1.title, h2.title-2{
 	overflow: hidden;
  	float: left;
 	margin-left: 1%;	
-	background-image: url('{{site.url}}img/_MG_1773.jpg');
+	background-image: url('../img/_MG_1773.jpg');
 	background-size: cover;
 	background-position: center;
 	width:49%;
