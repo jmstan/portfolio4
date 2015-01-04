@@ -460,8 +460,8 @@ h4.interests-title{
 @media screen and (max-width: 640px){
 
   .thumb, .thumb2, .thumb3, .thumb4{
-    width:96%;
-    margin: 0 2%;
+    width:96% !important;
+    margin: 0 2% !important;
   }
 
   h1{
