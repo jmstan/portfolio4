@@ -59,7 +59,7 @@ h1.title, h2.title-2{
 	  font-family: "franklin-gothic-urw";
 	}
 
-.title, .title-2{
+/*.title, .title-2{
 	text-align: center;
 	color:gray;
 	letter-spacing: 1px;
@@ -72,7 +72,7 @@ h1.title, h2.title-2{
 
 .title-2{
 	margin-top: 1%;
-	}
+	} */
 
 .story1{
     background-image: url('{{site.url}}img/image6_1.jpg');
@@ -104,11 +104,11 @@ h1.title, h2.title-2{
 	border:1px solid #dddddd;
 	width:60%;
 	margin: 10px auto;
-	}*/
+	}
 
 .story1, .story2, .story3{
 	display:table-cell;
-    }
+    } */
 
 .story1_link, .story2_link, .story3_link{
 	font-size: 24px;
