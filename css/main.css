@@ -520,8 +520,8 @@ h4.interests-title{
 
 
   .blog{
-    width: 96%;
-    margin: 0 2%;
+    width: 96% !important;
+    margin: 0 2% !important;
   }
 
    nav{
