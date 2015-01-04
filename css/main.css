@@ -400,8 +400,8 @@ p.interests-blurb{
 @media screen and (max-width: 640px){
 
   .thumb, .thumb2, .thumb3, .thumb4{
-    width:96% !important;
-    margin: 0 2% !important;
+    width:96% ;
+    margin: 0 2%;
   }
 
   h1{
@@ -426,7 +426,7 @@ p.interests-blurb{
   }
 
   span.line{
-    display: none !important;
+    display: none;
   }
 
   nav{
@@ -439,17 +439,17 @@ p.interests-blurb{
   }
 
   h3.title {
-    width: 80% !important;
-    margin: 0% 10% !important;
+    width: 80%;
+    margin: 0% 10%;
   }
 
   p.contact{
-     width: 80% !important;
-    margin: 4% 10% 0% !important;
+     width: 80%;
+    margin: 4% 10% 0%;
   }
 
   h4.title{
-    margin-top: 10% !important;
+    margin-top: 10%;
   }
 
   .email{
@@ -458,8 +458,8 @@ p.interests-blurb{
 
 
   p.title2{
-    margin-top:5% !important;
-    margin-bottom: 5% !important;
+    margin-top:5%;
+    margin-bottom: 5%;
   }
 
   p.contact{
