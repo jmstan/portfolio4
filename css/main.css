@@ -100,6 +100,11 @@ html, body{
 }
 
 
+img{
+  max-width: 100%;
+  display: block;
+}
+
 header{
     margin-top: 3% !important;
 }
@@ -144,42 +149,6 @@ li:last-child {
 a.active{
        text-decoration: underline !important; 
     }
-
-
-
-
-
-
-/*.thumb2{
-    background-image: url('{{site.url}}img/pandithumb.png');
-    height: 350px;
-    width:100%;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-
-}
-
-.thumb3{
-     background: url('{{site.url}}img/wmthumb2.png');
-    height: 350px;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-
-}
-
-
-.thumb4{
-
-    background: url('{{site.url}}img/fuzethumb5.png');
-    height: 350px;
-    width:100%;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    margin-top: 50px;
-} */
 
 
 .thumb4{
