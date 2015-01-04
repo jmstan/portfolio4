@@ -203,6 +203,11 @@ h2.title{
   margin-top: 5%;
   text-align: center;
 }
+
+h4.title2{
+text-align: center; 
+margin: 4% 0%; 
+}
  
 .name{
   margin-top: 10px;
