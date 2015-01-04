@@ -360,6 +360,10 @@ input#input_message.form-control{
   height:125px;
 }
 
+p.contact-title{
+  line-height: 1.3;
+}
+
 @media screen and (min-width: 641px) and (max-width:989px){
   
   .thumb3, .thumb4{
@@ -373,10 +377,7 @@ input#input_message.form-control{
   p.contact{
     margin-top: 5%;
   }
-
-  
-
-  }
+}
 
 
 
