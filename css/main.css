@@ -105,6 +105,7 @@ h1 a {
   line-height: 1.3;
   margin-bottom: 1%;
   margin-top: 7%;
+  font-weight: 500;
 }
 
 .main-title, .main-title2{
@@ -255,6 +256,7 @@ li.icon:last-child{
 
 ul.tools, ul{
 padding-left:0px; 
+float: none;
 }
 
 ul{
