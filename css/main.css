@@ -446,7 +446,7 @@ aside{
   }
 
 
-  .contact, .main-title, .about{
+  .contact, .main-title, .about, .interests-blurb{
      width: 80% !important;
     margin: 7% 10% 0% !important;
   }
