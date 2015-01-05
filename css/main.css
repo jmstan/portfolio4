@@ -224,13 +224,13 @@ span.blue-text{
 }
 
 .svg-icons{
-
     text-align: center;
     overflow: hidden;
     padding-left: 0px;
     width:97px !important;
     margin: 0 auto;
     margin-bottom: 30px;
+    float:none;
 }
 
 svg#instagram:hover, path.Github:hover { 
