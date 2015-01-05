@@ -352,13 +352,7 @@ width: 100%;
     margin-top: 5%;
   }
 
-  h4.title{
-    margin-top: 7%;
-  }
 
-  h5.title-2{
-    margin-bottom: 3%;
-  }
 
    .blog{
     width:100% !important;
@@ -379,12 +373,12 @@ width: 100%;
     margin-top:5%;
   }
 
-  .title{
+  .main.title{
     margin-top: 7%;
     font-size:20px;
   }
 
-  .title-2{
+  .main-title2{
     margin-top: 5%;
     margin-bottom: 10%;
     font-size: 18px;
