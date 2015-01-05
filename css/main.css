@@ -116,17 +116,18 @@ h3.title, h4.title2{
 
 
 
-h5.title-2{
-  margin-bottom: 5%;
-}
+
 
 /*---blog---*/
-h4.title, h5.title-2{
+
+h3.title, h4.title-2{
   margin-top: 3%;
   text-align: center;
 }
 
-
+h4.title-2{
+  margin-bottom: 5%;
+}
 
 
 
