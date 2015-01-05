@@ -477,7 +477,7 @@ p.interests-blurb{
     overflow: hidden;
     float: right;
     font-size: 18px;
-    display: inline;
+    display: inline-block;
     padding: 0%;
     float: none;
   } 
