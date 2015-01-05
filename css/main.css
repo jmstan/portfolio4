@@ -359,6 +359,14 @@ aside{
 
 
 @media screen and (min-width: 641px) and (max-width:989px){
+
+  img{
+    width: 80%;
+  }
+
+  .list-title, .skills{
+    text-align: center;
+  }
   
   .thumb3, .thumb4{
     margin-top: 12%;
@@ -380,8 +388,10 @@ aside{
 
 @media screen and (max-width: 640px){
 
-  img{
-    width: 80%;
+
+
+  .portrait{
+    margin-top: -81px;
   }
 
   .thumb, .thumb2, .thumb3, .thumb4{
