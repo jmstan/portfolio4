@@ -95,7 +95,6 @@ body{
 }
 
 
-
 h1 a {
   font-style: normal;
   font-weight:400;
@@ -109,7 +108,7 @@ h3.contact-title{
   margin-bottom: 1%;
 }
 
-h4.title, h5.title-2{
+.title, .title-2{
   text-align:center;
   margin-bottom: 1%;
   }
@@ -233,7 +232,7 @@ p.contact{
     margin-bottom: 30px;
 }
 
-svg.instagram:hover, path.Github:hover { 
+svg#instagram:hover, path.Github:hover { 
     fill: #249ce0; 
     transition: .2s;
     cursor: pointer;
@@ -283,20 +282,20 @@ p.interests-blurb{
 }
 
 .story1{
-    background-image: url('../img/image6_1.jpg');
-    background-size: cover;
-    background-position:center;
+ background-image: url('../img/image6_1.jpg'); 
 }
- 
-.story2, .story3{
-  overflow: hidden;
+
+.story2{
   margin-left: 1%;  
   background-image: url('../img/MG_1773.jpg');
-  background-size: cover;
-  background-position: center;
 }
 
-
+.story1, .story2{
+    background-size: cover;
+    background-position:center;
+    overflow: hidden;
+}
+ 
 .story1_link, .story2_link, .story3_link{
   font-size: 24px;
   color:white;
@@ -328,11 +327,7 @@ p.interests-blurb{
   text-decoration: none;
   }
 
-.return_link a:link{
-  color:gray;
-  }
-
-.return_link a:visited{
+.return_link a:link, .return_link a:visited{
   color:gray;
   }
 
