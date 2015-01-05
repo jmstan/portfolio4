@@ -382,14 +382,11 @@ width: 100%;
     margin-top: 5%;
     margin-bottom: 10%;
     font-size: 18px;
-
   }
 
   .header2{
     margin-top: 3%;
   }
-
-
 
   .story1_link, .story2_link, .story3_link{
     font-size: 20px;
@@ -447,7 +444,7 @@ width: 100%;
     overflow: hidden;
   }
 
-  .navigation{
+ .navigation{
     text-align: center;
     margin: 0%;
     margin-top: 5%;
@@ -466,6 +463,10 @@ width: 100%;
     padding: 0%;
     float: none !important;
   } 
+
+ ul{
+  float:none;
+ }
 
  ul li:first-child{
   margin-left: 0px;
