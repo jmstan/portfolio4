@@ -146,7 +146,7 @@ p{
   margin-bottom: 60px;
   }
 
-p.about{
+.about{
   text-align: left;
   margin-top: 0px;
   margin-bottom: 30px;
@@ -221,7 +221,7 @@ span.blue-text{
     font-weight: 500;
 }
 
-p.contact{
+.contact{
     margin-bottom: 35px;
     margin-top: 7%;
 }
@@ -280,7 +280,7 @@ width: 100%;
   margin-top: 2%;
 }
 
-p.interests-blurb{
+.interests-blurb{
   text-align: left;
   margin-top: 1%;
 }
