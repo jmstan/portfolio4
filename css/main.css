@@ -441,6 +441,11 @@ aside:last-child{
   margin-left: 0px;
  } 
 
+ .list-title, .skills, .interests-title{
+    text-align: center;
+  }
+
+
 }
 
 
@@ -472,9 +477,6 @@ aside:last-child{
     margin-top: 3%;
   }
 
-  .list-title, .skills, .interests-title{
-    text-align: center;
-  }
 
 
   .story1_link, .story2_link, .story3_link{
