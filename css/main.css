@@ -351,7 +351,7 @@ width: 100%;
     margin-top: 10%;
   }
 
-  p.contact{
+  .contact{
     margin-top: 5%;
   }
 
@@ -413,7 +413,7 @@ width: 100%;
     margin: 8% 10% 0%;
   }
 
-  p.contact, .main-title{
+  .contact, .main-title{
      width: 80%;
     margin: 4% 10% 0%;
   }
@@ -427,12 +427,12 @@ width: 100%;
   }
 
 
-  p.title2{
+  .title2{
     margin-top:5%;
     margin-bottom: 5%;
   }
 
-  p.contact{
+  .contact{
     font-size: 18px;
   }
 
