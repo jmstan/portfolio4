@@ -231,7 +231,7 @@ p.contact{
 }
 
 .svg-icons{
-    float:none !important;
+
     text-align: center;
     overflow: hidden;
     padding-left: 0px;
@@ -263,7 +263,7 @@ padding-left:0px;
 }
 
 li.tool-list{
- /* float:none; */
+
   text-align: left; 
   margin-top: 10px;
   margin-left: 0px;
