@@ -402,6 +402,15 @@ aside{
 }
 
 
+@media screen and (max-width: 767px){
+
+  .portrait{
+    width:50%;
+    margin: 2% 25%;
+  }
+
+}
+
 
 @media screen and (max-width: 640px){
 
@@ -425,11 +434,6 @@ aside{
     margin-top: 5%;
     margin-bottom: 10%;
     font-size: 18px;
-  }
-
-  .portrait{
-    width:50%;
-    margin: 2% 25%;
   }
 
   .header2{
