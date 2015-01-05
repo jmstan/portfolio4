@@ -469,7 +469,7 @@ p.interests-blurb{
     overflow: hidden;
   }
 
-  ul li{
+  /*ul li{
     list-style: none;
     text-decoration: none;
     margin-left: 15px;
@@ -480,10 +480,10 @@ p.interests-blurb{
     display: inline;
     padding: 0%;
     float: none;
-  }
+  } 
 
  ul li:first-child{
   margin-left: 0px;
- }
+ } */
 
 }
