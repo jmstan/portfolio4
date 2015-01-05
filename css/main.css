@@ -452,7 +452,7 @@ width: 100%;
     overflow: hidden;
   }
 
-  ul li{
+  .menu{
     list-style: none;
     text-decoration: none;
     margin-left: 15px;
