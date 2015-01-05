@@ -436,7 +436,7 @@ width: 100%;
   }
 
 
-  .blog{
+  .blog, .main-title{
     width: 96% !important;
     margin: 0 2% !important;
   }
