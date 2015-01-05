@@ -263,7 +263,7 @@ padding-left:0px;
 }
 
 li.tool-list{
-  float:none;
+ /* float:none; */
   text-align: left; 
   margin-top: 10px;
   margin-left: 0px;
