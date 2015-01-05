@@ -454,10 +454,16 @@ aside:last-child{
   }
 
 
-  .contact, .main-title, .interests-blurb{
-     width: 80% !important;
+ .main-title, .interests-blurb{
+    width: 80% !important;
     margin: 2% 10% 0% !important;
   }
+
+  .contact{
+    width: 80% !important;
+    margin: 4% 10% 0% !important;
+  }
+
 
   .about{
     width: 80% !important;
