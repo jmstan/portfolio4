@@ -219,11 +219,13 @@ span.line{
   border-top:1px solid black;
 }
 
-
-
-
 span.blue-text{
   color:#249ce0;
+}
+
+
+span.blue-text a{
+  text-decoration: none;
 }
 
 .email{
