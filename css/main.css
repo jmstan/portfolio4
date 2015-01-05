@@ -364,6 +364,11 @@ aside{
     width: 80%;
   }
 
+  .portrait{
+    margin-top: -81px;
+  }
+
+
   .asides-box{
     margin-top: 5%;
   }
@@ -393,11 +398,6 @@ aside{
 
 @media screen and (max-width: 640px){
 
-
-
-  .portrait{
-    margin-top: -81px;
-  }
 
   .thumb, .thumb2, .thumb3, .thumb4{
     width:96% ;
