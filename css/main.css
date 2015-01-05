@@ -233,7 +233,7 @@ p.contact{
     margin-bottom: 30px;
 }
 
-svg.instagram:hover, .Github:hover { 
+svg.instagram:hover, path.Github:hover { 
     fill: #249ce0; 
     transition: .2s;
     cursor: pointer;
