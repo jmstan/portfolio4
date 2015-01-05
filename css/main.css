@@ -371,6 +371,10 @@ aside{
   .list-title, .skills, .interests-title{
     text-align: center;
   }
+
+  .interests-title{
+    margin-top: 5%;
+  }
   
   .thumb3, .thumb4{
     margin-top: 12%;
