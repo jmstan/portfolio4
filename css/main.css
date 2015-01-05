@@ -295,6 +295,7 @@ width: 96%;
 
 
 aside{
+   margin-top: 5%;
   font-weight: 500;
 }
 
@@ -371,10 +372,6 @@ aside:last-child{
 
   .portrait{
     margin-top: 14%;
-  }
-
-  aside{
-    margin-top: 5%;
   }
 
   .list-title, .skills, .interests-title{
