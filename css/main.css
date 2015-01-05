@@ -61,7 +61,7 @@ html, body{
 }
 
 h1{
-  font-size: 2.625em; /*43x*/
+  font-size: 2.625em; /*43px*/
 } 
 
 h2{
@@ -118,13 +118,9 @@ h5.title-2{
   margin-bottom: 5%;
 }
 
-img{
-  max-width: 100%;
-  display: block;
-}
 
 header{
-  margin-top: 3% !important;
+  margin-top: 3% ;
 }
 
 
