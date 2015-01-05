@@ -378,7 +378,7 @@ aside:last-child{
   }*/
 
   .list-title, .skills, .interests-title{
-    text-align: center;
+    text-align: left;
   }
 
   .interests-title{
