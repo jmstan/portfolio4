@@ -413,7 +413,7 @@ p.interests-blurb{
     margin: 8% 10% 0%;
   }
 
-  p.contact{
+  p.contact, .main-title{
      width: 80%;
     margin: 4% 10% 0%;
   }
