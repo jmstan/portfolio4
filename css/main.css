@@ -450,6 +450,30 @@ aside:last-child{
     margin: 0% 10% 0% !important;
   }
 
+  nav{
+    overflow: hidden;
+  }
+
+ .navigation{
+    text-align: center;
+    margin: 0%;
+    overflow: hidden;
+  }
+
+  .menu{
+    list-style: none;
+    text-decoration: none;
+    margin-left: 15px;
+    margin-top: 22px;
+    overflow: hidden;
+    float: right;
+    font-size: 18px;
+    display: inline-block;
+    padding: 0%;
+    float: none !important;
+  } 
+
+
 
 }
 
@@ -540,28 +564,6 @@ aside:last-child{
     margin: 0 2% !important;
   }
 
-  nav{
-    overflow: hidden;
-  }
-
- .navigation{
-    text-align: center;
-    margin: 0%;
-    overflow: hidden;
-  }
-
-  .menu{
-    list-style: none;
-    text-decoration: none;
-    margin-left: 15px;
-    margin-top: 22px;
-    overflow: hidden;
-    float: right;
-    font-size: 18px;
-    display: inline-block;
-    padding: 0%;
-    float: none !important;
-  } 
 
 
 }
