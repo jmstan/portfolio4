@@ -247,8 +247,8 @@ li.icon{
     float:left;
 }
 
-li.icon:first-child{
-    margin-left: 0px;
+li.icon:last-child{
+    margin-left: 15px;
 }
 
 ul.tools, ul{
@@ -395,7 +395,7 @@ width: 100%;
 
   .contact, .main-title{
      width: 80% !important;
-    margin: 4% 10% 0% !important;
+    margin: 7% 10% 0% !important;
   }
 
 
@@ -447,7 +447,6 @@ width: 100%;
  .navigation{
     text-align: center;
     margin: 0%;
-    margin-top: 5%;
     overflow: hidden;
   }
 
