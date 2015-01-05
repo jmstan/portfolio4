@@ -291,6 +291,10 @@ width: 100%;
 }
 
 
+aside{
+  font-weight: 500;
+}
+
 .asides-box{
   margin-top: 2%;
 }
