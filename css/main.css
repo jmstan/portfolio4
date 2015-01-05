@@ -347,9 +347,6 @@ width: 100%;
     margin-top: 12%;
   }
 
-  h2.title{
-    margin-top: 10%;
-  }
 
   .contact{
     margin-top: 5%;
@@ -377,7 +374,7 @@ width: 100%;
     margin: 0 2%;
   }
 
-  h1{
+.myname{
     text-align: center;
     margin-top:5%;
   }
@@ -408,10 +405,6 @@ width: 100%;
     font-size: 20px;
   }
 
-  h1 {
-    width: 80%;
-    margin: 8% 10% 0%;
-  }
 
   .contact, .main-title{
      width: 80%;
