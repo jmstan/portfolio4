@@ -364,7 +364,11 @@ aside{
     width: 80%;
   }
 
-  .list-title, .skills{
+  .asides.box{
+    margin-top: 5%;
+  }
+
+  .list-title, .skills, .interests-title{
     text-align: center;
   }
   
@@ -372,14 +376,11 @@ aside{
     margin-top: 12%;
   }
 
-
   .contact{
     margin-top: 5%;
   }
 
-
-
-   .blog{
+  .blog{
     width:100% !important;
   }
 }
