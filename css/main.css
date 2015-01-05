@@ -368,7 +368,6 @@ aside{
     margin-top: -81px;
   }
 
-
   .asides-box{
     margin-top: 5%;
   }
@@ -379,6 +378,10 @@ aside{
 
   .interests-title{
     margin-top: 5%;
+  }
+
+  .interests-blurb{
+    font-size: 18px;
   }
   
   .thumb3, .thumb4{
