@@ -150,18 +150,14 @@ p{
   margin-bottom: 30px;
 }
 
-
-
-
-
 header{
   margin-top: 3% ;
 }
 
-ul li{
+li.menu{
 list-style: none;
-margin-left: 15px;
 margin-top: 22px;
+margin-left: 15px;
 float:left;
 }
 
