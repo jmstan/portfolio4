@@ -113,9 +113,6 @@ h1 a {
   }
 
 
-
-
-
 /*---blog---*/
 
 .title, .blog-title2{
@@ -127,7 +124,9 @@ h1 a {
   margin-bottom: 5%;
 }
 
-
+.blog-title{
+  text-align: center;
+}
 
 /*---blog---*/
 
@@ -252,6 +251,10 @@ ul.tools, ul{
 padding-left:0px; 
 }
 
+ul{
+  float:right;
+}
+
 .skills{
 
   text-align: left; 
@@ -259,7 +262,7 @@ padding-left:0px;
   margin-left: 0px;
   }
 
-li.tool-list a{
+li.skills a{
   font-weight: 400;
   color: #249ce0;
 }
