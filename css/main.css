@@ -445,6 +445,11 @@ aside:last-child{
     text-align: center;
   }
 
+ .about{
+    width: 80% !important;
+    margin: 0% 10% 0% !important;
+  }
+
 
 }
 
@@ -491,10 +496,7 @@ aside:last-child{
   }
 
 
-  .about{
-    width: 80% !important;
-    margin: 0% 10% 0% !important;
-  }
+
 
   .main-title{
     font-size: 20px;
