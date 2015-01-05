@@ -446,11 +446,15 @@ aside{
   }
 
 
-  .contact, .main-title, .about, .interests-blurb{
+  .contact, .main-title, .interests-blurb{
      width: 80% !important;
     margin: 7% 10% 0% !important;
   }
 
+  .about{
+    width: 80% !important;
+    margin: 0% 10% 0% !important;
+  }
 
   .main-title{
     font-size: 20px;
