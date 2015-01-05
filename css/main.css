@@ -473,7 +473,10 @@ aside:last-child{
     float: none !important;
   } 
 
-
+  .myname{
+    text-align: center;
+    margin-top:5%;
+  }
 
 }
 
@@ -486,10 +489,7 @@ aside:last-child{
     margin: 0 2%;
   }
 
-  .myname{
-    text-align: center;
-    margin-top:5%;
-  }
+
 
   .main.title{
     margin-top: 7%;
@@ -512,15 +512,10 @@ aside:last-child{
     font-size: 20px;
   }
 
-
-
-  .contact{
+.contact{
     width: 80% !important;
     margin: 4% 10% 0% !important;
   }
-
-
-
 
   .main-title{
     font-size: 20px;
