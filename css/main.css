@@ -302,6 +302,10 @@ aside{
   margin-top: 5%;
 }*/
 
+aside:last-child{
+  display: none;
+}
+
 .story1{
  background-image: url('../img/image6_1.jpg'); 
  margin-bottom: 1%;
