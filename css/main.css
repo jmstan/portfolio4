@@ -380,6 +380,10 @@ aside{
 
 @media screen and (max-width: 640px){
 
+  img{
+    width: 80%;
+  }
+
   .thumb, .thumb2, .thumb3, .thumb4{
     width:96% ;
     margin: 0 2%;
