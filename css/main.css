@@ -376,9 +376,6 @@ aside:last-child{
 
 @media screen and (min-width: 641px) and (max-width:989px){
 
-  img{
-    width: 80%;
-  }
 
   .portrait{
     margin-top: 14%;
@@ -496,8 +493,6 @@ aside:last-child{
     margin: 0 2%;
   }
 
-
-
   .main.title{
     margin-top: 7%;
     font-size:20px;
@@ -512,8 +507,6 @@ aside:last-child{
   .header2{
     margin-top: 3%;
   }
-
-
 
   .story1_link, .story2_link, .story3_link{
     font-size: 20px;
@@ -537,8 +530,6 @@ aside:last-child{
     font-size: 20px;
   }
 
-
-
   .title2{
     margin-top:5%;
     margin-bottom: 5%;
@@ -560,12 +551,9 @@ aside:last-child{
     margin-bottom: 10%;
   }
 
-
   .blog{
     width: 96% !important;
     margin: 0 2% !important;
   }
-
-
 
 }
