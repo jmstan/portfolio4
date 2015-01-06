@@ -2,10 +2,6 @@ header{
   margin-top: 3% ;
 }
 
-.myname{
-	margin-left: 0px
-	margin-top:0px;
-}
 
 ul{
   float:right;
@@ -39,7 +35,7 @@ ul{
 
   .myname{
     text-align: center;
-    margin-top:5%;
+    
   }
 
 }
