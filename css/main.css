@@ -366,6 +366,12 @@ aside:last-child{
   }
 
 
+/*----classwork-----*/
+
+.starter-title{
+  text-align: center;
+}
+
 
 @media screen and (min-width: 641px) and (max-width:989px){
 
