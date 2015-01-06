@@ -323,6 +323,13 @@ h2.sales-title{
 	color: black;
 }
 
+
+.invite-title{
+  text-align: left;
+  font-family: "freight-big-pro";
+}
+
+
 .title{
 display: block;
 margin-bottom: 5%;
