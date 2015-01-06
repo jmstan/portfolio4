@@ -42,14 +42,13 @@ span.blackline{
 	
 }*/
 
-h1.starter-title {
-
+.starter-title {
 padding: 0;
 margin: 0;
 float: none;
 font-family: "museo-sans";
 font-weight: 700;
-margin-top: 30px;
+margin-top: 5%;
 color: black;
 letter-spacing: 2px;
 font-size: 46px;
