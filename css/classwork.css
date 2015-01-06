@@ -167,6 +167,10 @@ padding: 0 !important;
 
 }
 
+.progject1{
+	margin-top: 3%;
+}
+
 
 .image1{
 background-image: url('{{site.url}}img/polaroid6.png');
@@ -327,6 +331,8 @@ h2.sales-title{
 .invite-title{
   text-align: left;
   font-family: "freight-big-pro";
+  font-size: 18px;
+  margin-bottom: 1%;
 }
 
 
