@@ -1,0 +1,468 @@
+@font-face {
+  font-family: 'Cylburn';
+  src: url('webfont.eot'); /* IE9 Compat Modes */
+  src: url('webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('cylburn.woff') format('woff'), /* Modern Browsers */
+       url('cylburn.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+html, body{
+	background-color: white;
+}
+
+h1.myname{
+	text-align:left;
+}
+
+
+.mainnav{ 
+	text-align: right;
+}
+
+span.bottom-line{
+border-top: 2px solid #cfcfcf;
+display: block;
+margin-top: 10px;
+}
+
+.the{
+position: relative;
+margin-top: -22px;
+text-transform: capitalize;
+letter-spacing: 2px;
+display: inline-block;
+font-size: 28px;
+top: -14px;
+
+padding-bottom: 0px;
+}
+
+span.blackline{
+	border-top: 2px solid black;
+
+}
+
+/*.redbox{
+	background-color: #BF5F47;
+	
+}*/
+
+h1.starter-title {
+
+padding: 0;
+margin: 0;
+float: none;
+font-family: "museo-sans";
+font-weight: 700;
+margin-top: 30px;
+color: black;
+letter-spacing: 2px;
+font-size: 46px;
+letter-spacing: 10px;
+color:black;
+text-align: center;
+text-transform: uppercase;
+padding-bottom: 8px;
+}
+
+h2.visual-title{
+padding: 0;
+padding-bottom: 35px;
+margin: 0;
+float: none;
+color: black;
+font-weight: 600;
+letter-spacing: 4px;
+font-size: 22px;
+font-family: "freight-big-pro";
+text-align: center;
+margin-top: 15px;
+
+}
+
+h3.projects1{
+	float:none;
+	font-family: "myriad-pro-condensed";
+	font-size: 28px;
+	color:black;
+}
+
+h4.sales, h4.editorial, h4.invite, h4.resume{
+	margin:0;
+	padding:0;
+	font-size: 18px;
+	color:black;
+}
+
+
+h4.sales{
+	color: #1B7458;../index.html
+}
+
+
+
+.challenge-title, .result-title{
+	font-family: "freight-big-pro";
+	font-weight: 600;
+	font-size: 22px;
+	color: black;
+	font-style: italic;	
+
+}
+
+.challenge, .result{
+	margin-top:25px;
+}
+
+.projects{
+	margin-top:20px;
+}
+
+p{
+	color:black;
+}
+
+p.inline-text{
+	color:white;
+	font-size: 18px;
+	line-height: 1.3;
+	padding: 25px 10px;
+	font-family: "freight-big-pro";
+	text-align: left;
+}
+
+
+p.inline-text2{
+	color:white;
+	font-size: 18px;
+	line-height: 1.3;
+	padding: 30px 10px 24px 10px;
+	font-family: "freight-big-pro";
+	text-align: left;
+}
+
+
+
+.sales-image{
+	margin-top: 20px;
+}
+
+.version1{
+	
+/*width: 454px !important;*/
+
+position: relative;
+border: 4px solid #ededed;
+/*border: 1px solid black; 
+width: 480px !important;
+height: 327px !important;*/
+padding:0 !important;
+}
+
+.version2{
+
+
+border: 4px solid #ededed;
+	background-size: contain;
+background-repeat: no-repeat;
+height: 339px;
+position: relative;
+/*width: 480px !important;
+height: 327px !important;*/
+padding: 0 !important;
+
+}
+
+
+.image1{
+background-image: url('../polaroid6.png');
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+height: 339px;
+/*width:100%;*/
+padding: 0;
+}
+
+.image2{
+background-image: url('../polaroid7.png');
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+/*width: 487px !important;*/
+height: 339px;
+width:100%;
+padding:0px;
+}
+
+.image3{
+background-image: url('../hackthon3.png');
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;	
+height: 339px;
+width:100%;
+padding:0px;
+}
+
+.image4{
+background-image: url('../hackathon4.png');
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;	
+height: 339px;
+width:100%;
+padding:0px;	
+}
+
+
+.image5{
+background-image: url('../gallery1.png');	
+background-size: cover;
+background-repeat: no-repeat;	
+height: 339px;
+width:100%;
+padding:0px;
+}
+
+
+.image6{
+background-image: url('../gallery2.png');	
+background-size: cover;
+background-repeat: no-repeat;	
+height: 339px;
+width:100%;
+padding:0px;
+}
+
+.text{
+font-size: 60px;
+color: black;
+font-family: "myriad-pro-condensed";
+position:absolute;
+letter-spacing: 2px;
+top: 32%;
+left: 31%;
+}
+
+
+span.fade{
+opacity: 0;
+background-position: center;
+background-size: cover;
+text-align: center;
+font-size: 16px;
+display: inline-block;
+color: black;
+font-family: "freight-big-pro";
+letter-spacing: 1px;
+position: relative;
+width:100%;
+height:100%;
+
+}
+
+span.fade:hover{
+background-position: center;
+background-size: cover;
+width: 100%;
+color: white;
+font-size: 16px;
+z-index: 100;
+-webkit-transition: all 300ms ease-out;
+-moz-transition: all 300ms ease-out;
+-o-transition: all 300ms ease-out;
+-ms-transition: all 300ms ease-out;
+transition: all 300ms ease-out;
+background-color: gray;
+display: inline-block;
+/*height: 100%; */
+opacity: 0.9;
+}
+
+.btn{
+width: 261px;
+height: 35px;
+font-size: 16px;
+text-align: left;
+background-color: black;
+border:none;
+color:white;
+font-family: "museo-sans";
+letter-spacing: 1px;
+/*padding-top:5px;
+padding-left: 20px;*/
+float: left;
+margin-left: 8px;
+}
+
+
+.btn:hover{
+	background-color: #BF5F47;
+	-webkit-transition: all 300ms ease-out;
+-moz-transition: all 300ms ease-out;
+-o-transition: all 300ms ease-out;
+-ms-transition: all 300ms ease-out;
+transition: all 300ms ease-out;
+cursor: pointer;
+}
+
+
+.arrow{
+	padding: 3px 20px;
+	float:right;
+}
+
+span.head1{
+	text-align: left;
+display: inherit;
+font-size: 22px;
+ font-family: "museo-sans";
+}
+
+
+h2.sales-title{
+	font-family: "freight-big-pro";
+	letter-spacing: 2px;
+	font-weight: 600;
+	font-size: 30px;
+	color: black;
+}
+
+.title{
+display: block;
+margin-bottom: 5%;
+margin-top: 10%;
+font-size: 18px;
+color:black;
+color: black;
+font-weight: 600;
+margin-top: 14%;
+letter-spacing: 2px;
+font-size: 20px;
+font-family: "freight-big-pro";	
+}
+
+span.line{
+	border-left:1px solid black;
+	padding-left: 9px;
+}
+
+footer{
+	width: 100%;
+background-color: black;
+height: 100px;
+
+margin-top: 6%;
+}
+
+
+.date{
+color:white;
+font-family: "museo-sans";
+font-size: 16px;
+line-height: 6;
+font-weight: 600;
+text-align: center;
+display: block;
+}
+
+span.button-text{ 
+	margin-top: 5px;
+	margin-left: 8px;
+}
+
+
+@media screen and (max-width: 989px){
+	
+	h1.starter-title{
+		font-size: 62px;
+	}
+	
+	.the{
+		top:-17px;
+	}
+	
+	p.inline-text{
+		padding: 20px 10px;
+	}
+	
+	p.inline-text2{
+		padding: 15px 10px 10px 10px;
+	}
+	
+	.btn{
+		width: 261px;
+		height: 35px;
+		font-size: 16px;
+		text-align: left;
+		background-color: black;
+		border: none;
+		color: white;
+		font-family: "museo-sans";
+		letter-spacing: 1px;
+		padding-top: 3px;
+		padding-left: 20px;
+		float: left;
+		margin-left: 8px;
+	}
+	
+	.arrow{
+		padding: 2px 20px;
+		float: right;
+		display: inline-block;
+	}
+	
+	span.head1{
+		font-size: 18px;
+	}
+}
+
+@media screen and (max-width: 767px){
+
+	h1.starter-title{
+		font-size: 28px;
+	}
+	
+	.the{
+		top: -6px;
+		font-size: 20px;
+	}
+	
+	 h2.visual-title{
+		 font-size: 22px;
+	 }
+	
+	.version1, .version2{
+		width:95% !important;
+		margin: 0 2.5% !important;
+	}
+	
+	.title{
+		margin-left: 3%;
+	}
+	
+	.version1{
+		margin-bottom: 2% !important;
+	}
+	
+	span.blackline{
+		width: 60% !important;
+		margin: 0 20% !important;
+	}
+	
+	span.head1{
+		font-size: 18px;
+	}
+	
+	p.inline-text{
+	padding: 10px;
+	}
+
+
+	p.inline-text2{
+		padding:5px;
+	}
+
+}
