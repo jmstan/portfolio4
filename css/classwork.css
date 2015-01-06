@@ -347,6 +347,7 @@ font-family: "freight-big-pro";
 .vertical-line{
 	border-left:1px solid black;
 	padding-left: 9px;
+	font-family: "freight-big-pro";	
 }
 
 footer{
