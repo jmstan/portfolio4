@@ -382,8 +382,6 @@ aside:last-child{
     float:right;
   }
 
-
-
   .list-title, .skills, .interests-title{
     text-align: left;
   }
@@ -454,7 +452,7 @@ aside:last-child{
     margin: 0% 10% 0% !important;
   }
 
-  nav{
+ /* nav{
     overflow: hidden;
   }
 
@@ -480,7 +478,7 @@ aside:last-child{
   .myname{
     text-align: center;
     margin-top:5%;
-  }
+  } */
 
 }
 
