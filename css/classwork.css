@@ -191,7 +191,7 @@ padding:0px;
 }
 
 .image3{
-background-image: url('../hackthon3.png');
+background-image: url('{{site.url}}img/hackthon3.png');
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center;	
@@ -201,7 +201,7 @@ padding:0px;
 }
 
 .image4{
-background-image: url('../hackathon4.png');
+background-image: url('{{site.url}}img/hackathon4.png');
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center;	
@@ -212,7 +212,7 @@ padding:0px;
 
 
 .image5{
-background-image: url('../gallery1.png');	
+background-image: url('{{site.url}}img/gallery1.png');	
 background-size: cover;
 background-repeat: no-repeat;	
 height: 339px;
@@ -222,7 +222,7 @@ padding:0px;
 
 
 .image6{
-background-image: url('../gallery2.png');	
+background-image: url('{{site.url}}img/gallery2.png');	
 background-size: cover;
 background-repeat: no-repeat;	
 height: 339px;
