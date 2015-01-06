@@ -154,10 +154,8 @@ padding:0 !important;
 }
 
 .version2{
-
-
 border: 4px solid #ededed;
-	background-size: contain;
+background-size: contain;
 background-repeat: no-repeat;
 height: 339px;
 position: relative;
@@ -352,7 +350,6 @@ font-family: "freight-big-pro";
 
 .vertical-line{
 	border-left:1px solid black;
-	padding-left: 9px;
 	font-family: "freight-big-pro";	
 }
 
