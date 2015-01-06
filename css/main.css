@@ -54,7 +54,7 @@ table {
 
 /*--end resest----*/
 
-
+/*---header----*/
 
 html, body{
   height:100%;
@@ -169,9 +169,9 @@ p{
   margin-top: 0px;
 }
 
-header{
+/*header{
   margin-top: 3% ;
-}
+} */
 
 li.menu{
 list-style: none;
@@ -277,9 +277,9 @@ padding-left:0px;
 float: none;
 }
 
-ul{
+/*ul{
   float:right;
-}
+}*/
 
 .skills{
   text-align: left; 
