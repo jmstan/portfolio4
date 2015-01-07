@@ -235,7 +235,7 @@ span.line{
   border-top:1px solid black;
 }
 
-.blue-text.a  {
+.blue-text, .blue-text.a, .blue-text a  {
   color:#249ce0;
 }
 
