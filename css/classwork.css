@@ -171,6 +171,10 @@ height: 327px !important;*/
 
 }
 
+.version1, .version2{
+ display: block;
+}
+
 .project1{
 	margin-top: 3%;
 }
