@@ -190,9 +190,9 @@ background-size: cover;
 background-repeat: no-repeat;
 background-position: center;
 /*width: 487px !important;*/
-height: 339px;
+/*height: 339px;
 width:100%;
-padding:0px;
+padding:0px; */
 }
 
 /*.image3{
@@ -203,7 +203,7 @@ background-position: center;
 height: 339px;
 width:100%;
 padding:0px;
-} */
+}
 
 .image4{
 background-image: url('{{site.url}}img/hackathon4.png');
@@ -213,7 +213,7 @@ background-position: center;
 height: 339px;
 width:100%;
 padding:0px;	
-}
+}  */
 
 
 .image5{
