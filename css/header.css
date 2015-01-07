@@ -2,6 +2,27 @@ header{
   margin-top: 3% ;
 }
 
+li.menu{
+list-style: none;
+margin-top: 22px;
+margin-left: 15px;
+float:left;
+}
+
+
+ul li a {
+    font-size: 18px;
+    color:black;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+
+li:last-child {
+  margin-right:0;
+}
+
+
 
 ul{
   float:right;
