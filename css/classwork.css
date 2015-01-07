@@ -170,15 +170,15 @@ padding: 0 !important;
 }
 
 
-.image1{
+/*.image1{
 background-image: url('{{site.url}}img/polaroid6.png');
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center;
 height: 339px;
 /*width:100%;*/
-padding: 0;
-}
+/*padding: 0;
+} */
 
 .image2{
 background-image: url('{{site.url}}img//polaroid7.png');
