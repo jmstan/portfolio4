@@ -174,7 +174,7 @@ img{
 	display: block;
 }
 
-/*.image1{
+.image1{
 background-image: url('{{site.url}}img/polaroid6.png');
 background-size: cover;
 background-repeat: no-repeat;
@@ -182,7 +182,7 @@ background-position: center;
 height: 339px;
 /*width:100%;*/
 /*padding: 0;
-} */
+} 
 
 .image2{
 background-image: url('{{site.url}}img//polaroid7.png');
@@ -195,7 +195,7 @@ width:100%;
 padding:0px;
 }
 
-.image3{
+/*.image3{
 background-image: url('{{site.url}}img/hackthon3.png');
 background-size: cover;
 background-repeat: no-repeat;
@@ -203,7 +203,7 @@ background-position: center;
 height: 339px;
 width:100%;
 padding:0px;
-}
+} */
 
 .image4{
 background-image: url('{{site.url}}img/hackathon4.png');
