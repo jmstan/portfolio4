@@ -399,6 +399,11 @@ span.button-text{
 	p.inline-text2{
 		padding: 15px 10px 10px 10px;
 	}
+
+	.version1{
+		display: block;
+		width:100%;
+	}
 	
 	.btn{
 		width: 261px;
