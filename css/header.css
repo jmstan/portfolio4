@@ -34,6 +34,10 @@ ul{
     overflow: hidden;
   }
 
+  ul{
+  	float:none;
+  }
+
   .menu{
     list-style: none;
     text-decoration: none;
@@ -49,7 +53,7 @@ ul{
 
   .myname{
    text-align: center;
-    
+   
   }
 
 }
