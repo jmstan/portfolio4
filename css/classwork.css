@@ -250,11 +250,7 @@ background-image: url('{{site.url}}img/gallery1.png');
 
 .hackathon-img2{
 background-image: url('{{site.url}}img/gallery2.png');	
-background-size: cover;
-background-repeat: no-repeat;	
-height: 339px;
-width:100%;
-padding:0px;
+
 } 
 
 .text{
