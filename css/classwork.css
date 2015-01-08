@@ -219,7 +219,7 @@ height: 327px !important;*/
 }
 
 .image{
-background-image: url('{{site.url}}img/hackthon3.png');
+
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center;	
