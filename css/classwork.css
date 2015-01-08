@@ -449,9 +449,14 @@ span.button-text{
 		 font-size: 22px;
 	 }
 	
-	.version1, .version2, .text1{
+	/*.version1, .version2, .text1{
 		width:95% !important;
 		margin: 0 2.5% !important;
+	} */
+
+	.study1{
+		width:95%;
+		margin: 0 2.5%
 	}
 	
 	.title{
