@@ -1,0 +1,64 @@
+.email{
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.contact{
+    margin-bottom: 35px;
+    margin-top: 7%;
+}
+
+.svg-icons{
+    text-align: center;
+    overflow: hidden;
+    padding-left: 0px;
+    width:97px !important;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    float:none;
+}
+
+#instagram > path:hover, path.Github:hover { 
+    fill: #249ce0; 
+    transition: .2s;
+    cursor: pointer;
+}
+
+
+svg.github{
+  margin-top: 2px;
+}
+
+#Cat:hover {
+    fill: white;
+}
+
+li.icon{
+    float:left;
+}
+
+li.icon:last-child{
+    margin-left: 15px;
+}
+
+ul.tools, ul{
+padding-left:0px; 
+float: none;
+}
+
+
+
+
+@media screen and (max-width: 640px){
+
+.email{
+    font-size: 20px;
+  }
+
+
+}
+
+

@@ -246,7 +246,7 @@ span.blue-text a{
   text-decoration: none;
 }
 
-.email{
+/*.email{
     text-align: center;
     margin-top: 35px;
     margin-bottom: 20px;
@@ -282,7 +282,7 @@ svg.github{
 
 #Cat:hover {
     fill: white;
-}
+}   */
 
 li.icon{
     float:left;
