@@ -222,7 +222,7 @@ padding:0px;
 }  */
 
 
-.image5{
+/*.image5{
 background-image: url('{{site.url}}img/gallery1.png');	
 background-size: cover;
 background-repeat: no-repeat;	
@@ -249,7 +249,7 @@ position:absolute;
 letter-spacing: 2px;
 top: 32%;
 left: 31%;
-}
+}*/
 
 
 span.fade{
