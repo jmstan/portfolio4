@@ -218,67 +218,44 @@ height: 327px !important;*/
 	margin-top: 3%;
 }
 
-
-/*.image1{
-background-image: url('{{site.url}}img/polaroid6.png');
-background-size: cover;
-background-repeat: no-repeat;
-background-position: center;
-height: 339px;
-/*width:100%;*/
-/*padding: 0;
-} 
-
-.image2{
-background-image: url('{{site.url}}img//polaroid7.png');
-background-size: cover;
-background-repeat: no-repeat;
-background-position: center;
-/*width: 487px !important;*/
-/*height: 339px;
-width:100%;
-padding:0px; */
-}
-
-/*.image3{
+.image{
 background-image: url('{{site.url}}img/hackthon3.png');
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center;	
-height: 339px;
-width:100%;
-padding:0px;
-}
-
-.image4{
-background-image: url('{{site.url}}img/hackathon4.png');
-background-size: cover;
-background-repeat: no-repeat;
-background-position: center;	
-height: 339px;
 width:100%;
 padding:0px;	
-}  */
-
-
-/*.image5{
-background-image: url('{{site.url}}img/gallery1.png');	
-background-size: cover;
-background-repeat: no-repeat;	
-height: 339px;
-width:100%;
-padding:0px;
 }
 
 
-.image6{
+.polaroid-img{
+background-image: url('{{site.url}}img/polaroid6.png');
+} 
+
+.polaroid-img2{
+background-image: url('{{site.url}}img//polaroid7.png');
+}
+
+.hackathon-img{
+background-image: url('{{site.url}}img/hackthon3.png');
+}
+
+.hackathon-img2{
+background-image: url('{{site.url}}img/hackathon4.png');
+}	
+
+.hackathon-img{
+background-image: url('{{site.url}}img/gallery1.png');	
+}
+
+.hackathon-img2{
 background-image: url('{{site.url}}img/gallery2.png');	
 background-size: cover;
 background-repeat: no-repeat;	
 height: 339px;
 width:100%;
 padding:0px;
-} */
+} 
 
 .text{
 font-size: 60px;
