@@ -37,6 +37,11 @@ ul li a {
 }
 
 
+ul.navigation{
+  float: right;
+}
+
+
 li:last-child {
   margin-right:0;
 }
