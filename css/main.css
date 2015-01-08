@@ -282,7 +282,7 @@ svg.github{
 
 #Cat:hover {
     fill: white;
-}   */
+}   
 
 li.icon{
     float:left;
@@ -295,7 +295,7 @@ li.icon:last-child{
 ul.tools, ul{
 padding-left:0px; 
 float: none;
-}
+}  */
 
 /*ul{
   float:right;
@@ -418,9 +418,7 @@ aside:last-child{
     margin-top: 12%;
   }
 
-  .contact{
-    margin-top: 5%;
-  }
+
 
   .blog{
     width:100% !important;

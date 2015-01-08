@@ -37,6 +37,11 @@ svg.github{
     fill: white;
 }
 
+
+li{
+    list-style: none;
+}
+
 li.icon{
     float:left;
 }
