@@ -3,7 +3,7 @@ html *{
 }
 
 
-.myname {
+.myname a {
   font-style: normal;
   font-weight:400;
   text-decoration: none;
