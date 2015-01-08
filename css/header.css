@@ -73,8 +73,9 @@ ul{
     overflow: hidden;
   }
 
- .navigation{
+ ul.navigation{
     text-align: center;
+    float:none;
     margin: 0%;
     overflow: hidden;
   }
