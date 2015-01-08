@@ -449,7 +449,7 @@ span.button-text{
 		 font-size: 22px;
 	 }
 	
-	.version1, .version2{
+	.version1, .version2, .text1{
 		width:95% !important;
 		margin: 0 2.5% !important;
 	}
@@ -461,6 +461,8 @@ span.button-text{
 	.version1{
 		margin-bottom: 2% !important;
 	}
+
+
 	
 	span.blackline{
 		width: 60% !important;
