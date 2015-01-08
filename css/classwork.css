@@ -297,9 +297,6 @@ line-height: 1.5;
 margin: 8px 0px;
 }
 
-.head1{
-	text-align: center;
-}
 
 .study1 > a{
   text-decoration: none;
@@ -499,6 +496,11 @@ span.button-text{
 		font-size: 20px;
 	}
 	
+	.head1{
+	text-align: center;
+	}
+
+
 	 h2.visual-title{
 		 font-size: 22px;
 		 width:95%;
