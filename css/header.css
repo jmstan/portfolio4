@@ -1,3 +1,8 @@
+html *{
+    font-family: "franklin-gothic-urw";
+}
+
+
 header{
   margin-top: 3% ;
 }
