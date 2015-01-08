@@ -508,8 +508,8 @@ span.button-text{
 	}
 
 	.study1{
-		width:95%;
-		margin: 0 2.5%
+		width:95% !important;
+		margin: 0 2.5% !important;
 	}
 	
 	.title{
