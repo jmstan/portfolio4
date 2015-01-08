@@ -6,6 +6,10 @@
     font-weight: 500;
 }
 
+span.line{
+  border-top:1px solid black;
+}
+
 .contact{
     margin-bottom: 35px;
     margin-top: 7%;
