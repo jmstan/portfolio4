@@ -494,6 +494,8 @@ span.button-text{
 	
 	 h2.visual-title{
 		 font-size: 22px;
+		 width:95%;
+		 margin: 0 2.5%;
 	 }
 	
 	/*.version1, .version2, .text1{
