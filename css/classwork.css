@@ -497,7 +497,7 @@ span.button-text{
 	}
 	
 	.head1{
-	text-align: center;
+	text-align: center !important;
 	}
 
 
