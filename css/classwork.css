@@ -384,8 +384,12 @@ span.button-text{
 
 @media screen and (max-width: 989px){
 	
-	h1.starter-title{
-		font-size: 62px;
+	.starter-title{
+		font-size: 48px;
+	}
+
+	.visual-title{
+		font-size: 20px;
 	}
 	
 	.the{
