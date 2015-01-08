@@ -244,11 +244,11 @@ background-image: url('{{site.url}}img/hackthon3.png');
 background-image: url('{{site.url}}img/hackathon4.png');
 }	
 
-.hackathon-img{
+.gallery-img{
 background-image: url('{{site.url}}img/gallery1.png');	
 }
 
-.hackathon-img2{
+.gallery-img2{
 background-image: url('{{site.url}}img/gallery2.png');	
 
 } 
