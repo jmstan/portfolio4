@@ -447,6 +447,10 @@ aside:last-child{
     margin-top: 5%;
   }
 
+  .main-title{
+    font-size: 24px;
+  }
+
 
  .main-title, .interests-blurb{
     width: 80% !important;
