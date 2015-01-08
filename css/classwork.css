@@ -503,6 +503,10 @@ span.button-text{
 		margin: 0 2.5% !important;
 	} */
 
+	.invite-title{
+		text-align: center;
+	}
+
 	.study1{
 		width:95%;
 		margin: 0 2.5%
@@ -515,7 +519,6 @@ span.button-text{
 	.version1{
 		margin-bottom: 2% !important;
 	}
-
 
 	
 	span.blackline{
