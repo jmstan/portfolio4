@@ -1,3 +1,39 @@
+
+/* Example One */
+#example-one { 
+  margin: 0 auto; 
+  list-style: none; 
+  position: relative; 
+  width: 960px; 
+}
+#example-one li { 
+  display: inline-block;  
+}
+#example-one a { 
+  color: #bbb; 
+  font-size: 14px; 
+  float: left;
+  padding: 6px 10px 4px 10px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+#example-one a:hover { 
+  color: white; 
+}
+#magic-line { 
+  position: absolute;
+  bottom: -2px; 
+  left: 0; 
+  width: 100px; 
+  height: 2px; 
+  background: #fe4902;
+}
+.current_page_item a { 
+  color: black !important; 
+}
+
+
+
 html *{
     font-family: "franklin-gothic-urw";
 }
