@@ -519,7 +519,10 @@ span.button-text{
 		margin-bottom: 2% !important;
 	}
 
-	
+	.version1, .version2{
+		margin-top: 10%;
+	}
+
 	
 	span.blackline{
 		width: 60% !important;
