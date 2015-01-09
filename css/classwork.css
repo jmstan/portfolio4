@@ -281,8 +281,11 @@ margin: 8px 0px;
 }
 
 .fade > a{
-	text-align: left;
+	float:left;
+	font-size:20px;
 	color: #BF5F47;
+	text-decoration: none;
+
 }
 
 
