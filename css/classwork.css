@@ -494,9 +494,9 @@ span.button-text{
 
 
    	.study1 > a{
-		
 		color: #BF5F47;
 		text-align: center;
+		text-decoration: none;
 		display: block;
 		font-size: 18px;
 	}
