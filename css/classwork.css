@@ -428,6 +428,12 @@ span.button-text{
 	.visual-title{
 		font-size: 20px;
 	}
+
+	
+	 .study1 > a{
+	 	text-align: left;
+	 }
+
 	
 	.the{
 		top:-17px;
@@ -491,10 +497,7 @@ span.button-text{
 		 margin: 0 2.5%;
 	 }
 	
-	 .study1 > a{
-	 	text-align: left;
-	 }
-
+	
 	.invite-title{
 		text-align: center;
 		margin-top: 12%;
