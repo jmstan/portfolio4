@@ -6,6 +6,11 @@
     font-weight: 500;
 }
 
+
+.contact{
+    font-size: 18px;
+}
+
 span.line{
   border-top:1px solid black;
 }
