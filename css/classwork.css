@@ -280,6 +280,11 @@ margin: 8px 0px;
   font-size: 18px;
 }
 
+.fade > a{
+	text-align: left;
+	color: #BF5F47;
+}
+
 
 span.fade{
 opacity: 0;
