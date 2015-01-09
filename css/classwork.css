@@ -517,10 +517,12 @@ span.button-text{
 	
 	.version1{
 		margin-bottom: 2% !important;
+		margin-top: 3%;
 	}
 
-	.version1, .version2{
-		margin-top: 3%;
+	.version2{
+		margin-top: 10%;
+		
 	}
 
 	
