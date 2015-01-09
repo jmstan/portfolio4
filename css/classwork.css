@@ -481,10 +481,9 @@ span.button-text{
 		 margin: 0 2.5%;
 	 }
 	
-	/*.version1, .version2, .text1{
-		width:95% !important;
-		margin: 0 2.5% !important;
-	} */
+	 .study1 > a{
+	 	text-align: left;
+	 }
 
 	.invite-title{
 		text-align: center;
