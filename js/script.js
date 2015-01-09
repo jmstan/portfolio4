@@ -1,0 +1,6 @@
+
+
+
+$('.photoset-grid-basic').photosetGrid();
+
+
