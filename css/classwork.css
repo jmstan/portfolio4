@@ -425,6 +425,8 @@ span.button-text{
 
 	 .study1 > a{
 	 	text-align: left;
+	 	color: #BF5F47;
+	 	text-decoration: none;
 	 }
 
 	
@@ -484,6 +486,22 @@ span.button-text{
 	}
 
 
+	.study1{
+		width:95% !important;
+		margin: 0 2.5% !important;
+		
+	}
+
+
+   	.study1 > a{
+		
+		color: #BF5F47;
+		text-align: center;
+		display: block;
+		font-size: 18px;
+	}
+	
+
 	 h2.visual-title{
 		 font-size: 22px;
 		 width:95%;
@@ -496,21 +514,8 @@ span.button-text{
 		margin-top: 12%;
 	}
 
-	.study1{
-		width:95% !important;
-		margin: 0 2.5% !important;
-		
-	}
 
 
-	.study1 > a{
-		text-decoration: none;
-		color: #BF5F47;
-		text-align: center;
-		display: block;
-		font-size: 18px;
-	}
-	
 	.title{
 		margin-left: 3%;
 	}
