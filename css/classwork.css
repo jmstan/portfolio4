@@ -273,13 +273,6 @@ margin: 8px 0px;
 }
 
 
-.study1 > a{
-  text-decoration: none;
-  color: #BF5F47;
-  text-align: center;
-  display: block;
-  font-size: 18px;
-}
 
 .fade > a{
 	float: left;
@@ -429,7 +422,7 @@ span.button-text{
 		font-size: 20px;
 	}
 
-	
+
 	 .study1 > a{
 	 	text-align: left;
 	 }
@@ -506,6 +499,16 @@ span.button-text{
 	.study1{
 		width:95% !important;
 		margin: 0 2.5% !important;
+		
+	}
+
+
+	.study1 > a{
+		text-decoration: none;
+		color: #BF5F47;
+		text-align: center;
+		display: block;
+		font-size: 18px;
 	}
 	
 	.title{
