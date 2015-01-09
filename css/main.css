@@ -394,13 +394,15 @@ aside:last-child{
 }
 
 
-@media screen and (max-width:989px){
+@media screen (min-width: 768px) and (max-width:989px){
 
 
 
   .portrait{
     margin-top: 14%;
     float:right;
+    width:50%;
+    margin: 5% 25%;
   }
 
   .list-title, .skills, .interests-title{
