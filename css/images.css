@@ -1,0 +1,90 @@
+
+html, body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    position:relative;	
+	}
+
+.photoset-row.cols-1{
+    width:85%;
+    margin:30px auto 0px;
+    }
+
+.photoset-row.cols-2, .image6{
+    width: 85%;
+    margin:35px auto 10px;
+    }
+
+.photoset-row-cols-3{
+    width:85%;
+    margin: 0 auto;
+    }
+
+.photoset-grid-custom{
+    text-align: center;
+    }
+
+h3, .head-title, .content{
+    font-family:'Didact Gothic', sans-serif;    
+    }
+
+body{
+    width:95%;
+    margin: 0 auto;
+    }
+    
+h3{
+  	text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    margin: 25px 0px 0px 0px;
+    letter-spacing: 1px;
+    }
+
+.content-title{
+    position: absolute;
+    top: 140px;
+    width: 100%;
+    letter-spacing: 1px; 
+	}
+
+.group1{
+    margin-left: -10px;
+    }
+
+.group2{
+    width: 100%;
+    height: auto;
+    margin-top: 0px;
+    margin-left: 10px;
+    }
+
+.head-title{
+    font-family:'Didact Gothic', sans-serif;
+    text-align:center;
+    font-size: 24px;
+    color: white;
+    letter-spacing: 1px;
+    }
+
+.content{
+    width: 75%;
+    margin: 0 auto 30px;
+    padding-top: 10px;
+    letter-spacing: 1px;
+    }
+    
+@media screen and (max-width:600px){
+
+.content-title{
+    top:90px;
+    }
+
+h2.head-title{
+   font-size:20px;
+   }
+   
+}	 
+
+
