@@ -281,10 +281,12 @@ margin: 8px 0px;
 }
 
 .fade > a{
-	float:left;
-	font-size:20px;
-	color: #BF5F47;
+	float: left;
+	font-size: 20px;
+	color: #BF532C;
 	text-decoration: none;
+	font-weight: 500;
+	margin-left: 10px;
 
 }
 
