@@ -32,13 +32,13 @@ body{
     margin: 0 auto;
     }
     
-/*h3{
+.month{
   	text-align: center;
     font-size: 30px;
     font-weight: 300;
     margin: 25px 0px 0px 0px;
     letter-spacing: 1px;
-    } */
+    } 
 
 .content-title{
     position: absolute;
