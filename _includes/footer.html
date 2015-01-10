@@ -77,10 +77,12 @@ $('.photoset-grid-basic').photosetGrid();
 </script> 
 
 <script>
-   /* $("#example-one").append("<li id='magic-line'></li>");
+
+    
+    $("#example-one").append("<li id='magic-line'></li>");
     
     /* Cache it */
-   /* var $magicLine = $("#magic-line");
+    var $magicLine = $("#magic-line");
     
     $magicLine
         .width($(".current_page_item").width())
@@ -102,16 +104,11 @@ $('.photoset-grid-basic').photosetGrid();
             left: $magicLine.data("origLeft"),
             width: $magicLine.data("origWidth")
         });    
-    }); */
-    $("#example-one li a").click(function() {
-        $(this).parent().siblings().removeClass("current_page_item");
-    $(this).parent().addClass("current_page_item");
-        $magicLine
-    .width($(".current_page_item").width())
-    .css("left", $(".current_page_item a").position().left)
-    .data("origLeft", $magicLine.position().left)
-    .data("origWidth", $magicLine.width());
-});
+    });
+    
+    
+    
+   
 </script>    
     
 
