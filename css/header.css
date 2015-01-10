@@ -52,21 +52,21 @@ nav li.current a {
     color: blue;
 }
 
-nav li.current a:link {
+nav li a:link {
     color: black;
 }
 
-nav li.current a:visited {
+nav li a:visited {
     color: black;
 }
 
-nav li.current a:hover {
+nav li a:hover {
   color:#249ce0;
 }
 
-nav li.current  a:active {
+/*nav li.current  a:active {
   color:#249ce0;
-}
+} */
 
 
 
