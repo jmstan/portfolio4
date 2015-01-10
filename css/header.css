@@ -30,6 +30,11 @@ margin-left: 15px;
 float:left;
 }
 
+li.menu a:active{
+  color:#249ce0;
+}
+}
+
 li.menu:first-child{
   margin-left: 0px;
 }
