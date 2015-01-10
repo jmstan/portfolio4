@@ -30,24 +30,26 @@ margin-left: 15px;
 float:left;
 }
 
-.menu a:link {
-    color: black;
-}
 
-.menu a:visited {
-    color: black;
-}
-
-.menu a:hover {
-  color:#249ce0;
-}
-
-.menu a:active {
-  color:#249ce0;
-}
 
 nav li.current a {
     color: blue;
+}
+
+nav li a:link {
+    color: black;
+}
+
+nav li a:visited {
+    color: black;
+}
+
+nav li a:hover {
+  color:#249ce0;
+}
+
+nav li  a:active {
+  color:#249ce0;
 }
 
 nav a {
