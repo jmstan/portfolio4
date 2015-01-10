@@ -41,9 +41,9 @@ nav ul {
     float:right;
     }
 
-nav li a:link {
+/*nav li a:link {
     color: black;
-}
+}*/
 
 nav li a:visited {
     color: black;
@@ -57,9 +57,9 @@ nav li a:active {
   color: #249ce0;
 } 
 
-/*nav li .current a {
+nav li .current a {
     color: #249ce0;
-}*/
+}
 
 
 li:first-child{
