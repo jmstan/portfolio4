@@ -30,7 +30,7 @@ margin-left: 15px;
 float:left;
 }
 
-li.menu a:hover, li.menu a:active{
+.menu a:hover {
   color:#249ce0;
 }
 
