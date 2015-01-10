@@ -22,9 +22,6 @@ title: Studies
 <style>
 
 
-   h1, ul{
-    margin:0px;
-   }
     
     div {
       display: none;
@@ -63,15 +60,15 @@ title: Studies
 
     <header class="d-all">
          <h1 class="myname da2-da5"><a href="{{site.url}}index">Jane Stanton </a> </h1>
-            <nav>
+             <nav>
                 <ul>
                 {% for link in site.navigation %}
                     {% assign current = nil %}
                     {% if page.url contains link.url %} 
                         {% assign current = 'current' %}
                     {% endif %}
-                   <!-- <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}"> -->
-                         <a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
+                    <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}"> 
+                         <a href="{{site.url}}{{link.url }}">{{ link.title }}</a>
                     </li>
                 {% endfor %}
                 </ul>
