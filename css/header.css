@@ -46,6 +46,11 @@ float:left;
   color:#249ce0;
 }
 
+nav li.current a {
+    color: #111;
+}
+
+
 
 
 
