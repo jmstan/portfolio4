@@ -52,7 +52,7 @@ nav li.current a {
     color: blue;
 }
 
-nav li a:link {
+nav li a: {
     color: black;
 }
 
@@ -64,9 +64,9 @@ nav li a:hover {
   color:#249ce0;
 }
 
-/*nav li.current  a:active {
+nav li a:active {
   color:#249ce0;
-} */
+} 
 
 
 
