@@ -10,16 +10,14 @@
   display: inline-block;  
 }
 #example-one a { 
-  color: #bbb; 
+ 
   font-size: 18px; 
   float: left;
   padding: 6px 10px 4px 10px;
   text-decoration: none;
 
 }
-#example-one a:hover { 
-  color: white; 
-}
+
 #magic-line { 
   position: absolute;
   bottom: -2px; 
