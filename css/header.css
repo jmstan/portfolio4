@@ -30,6 +30,16 @@ margin-left: 15px;
 float:left;
 }
 
+li:last-child {
+  margin-right:0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    float:right;
+    }
+
 nav a {
     text-decoration: none;
     font-size: 18px;
@@ -38,12 +48,6 @@ nav a {
 
 
 
-
-nav ul {
-    list-style-type: none;
-    padding: 0;
-    float:right;
-    }
 
 /*nav li a:link {
     color: black;
@@ -57,7 +61,7 @@ nav li a:hover {
   color:#249ce0;
 }
 
-nav li .current a:active {
+nav li .current a:active, nav li a:active {
   color: #249ce0;
 } 
 
@@ -66,15 +70,6 @@ nav li .current a {
 }
 
 
-li:first-child{
-  margin-left: 0px;
-}
-
-
-
-li:last-child {
-  margin-right:0;
-}
 
 
 
