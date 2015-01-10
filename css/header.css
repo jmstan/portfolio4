@@ -99,7 +99,7 @@ li:last-child {
     overflow: hidden;
   }
 
- ul.navigation{
+nav ul{
     text-align: center;
     float:none;
     margin: 0%;
@@ -114,7 +114,7 @@ li:last-child {
     font-size: 18px;
   }
 
-  .menu{
+  nav li{
     list-style: none;
     text-decoration: none;
     margin-left: 15px;
