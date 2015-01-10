@@ -46,7 +46,7 @@
                         {% assign current = 'current' %}
                     {% endif %}
                     <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
-                        <a href="{{ site.url }}">{{ link.title }}</a>
+                        <a href="{{ link.url }}">{{ site.title }}</a>
                     </li>
                 {% endfor %}
                 </ul>
