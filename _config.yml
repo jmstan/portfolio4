@@ -11,13 +11,13 @@ permalink: pretty
 
 navigation:
  - title: Work
-   url: portfolio4/index
+   baseurl: index
  - title: About
-   url: portfolio4/about
+   baseurl: /about
  - title: Blog
-   url: portfolio4/blog
+   baseurl: /blog
  - title: Studies
-   url: portfolio4/studies
+   baseurl: /studies
 
 collections:
     portfolio:
