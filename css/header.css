@@ -40,13 +40,10 @@ nav li {
     text-transform: uppercase;
 }
 
-
-
 nav ul {
     list-style-type: none;
     padding: 0;
 }
-
 
 
 nav li a: {
@@ -70,9 +67,6 @@ nav li.current a {
 }
 
 
-
-
-
 li:first-child{
   margin-left: 0px;
 }
@@ -85,10 +79,6 @@ ul li a {
     font-weight: 500;
 }
 
-
-ul.navigation{
-  float: right;
-}
 
 
 li:last-child {
