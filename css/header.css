@@ -36,19 +36,19 @@ nav li.current a {
     color: blue;
 }
 
-nav li a:link {
+nav li.current a:link {
     color: black;
 }
 
-nav li a:visited {
+nav li.current a:visited {
     color: black;
 }
 
-nav li a:hover {
+nav li.current a:hover {
   color:#249ce0;
 }
 
-nav li  a:active {
+nav li.current  a:active {
   color:#249ce0;
 }
 
