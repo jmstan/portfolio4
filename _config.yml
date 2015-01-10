@@ -9,6 +9,16 @@ url: "http://jmstan.github.io/portfolio4/"
 baseurl: "portfolio4/"
 permalink: pretty
 
+navigation:
+ - title: Work
+   url: index.html
+ - title: About
+   url: about.html
+ - title: Blog
+   url: blog.html
+ - title: Studies
+   url: studies.html
+
 collections:
     portfolio:
         output: true
