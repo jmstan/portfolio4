@@ -43,8 +43,8 @@ nav li {
 nav ul {
     list-style-type: none;
     padding: 0;
-}
-
+    float:right;
+    }
 
 nav li a: {
     color: black;
@@ -62,7 +62,7 @@ nav li a:active {
   color: #249ce0;
 } 
 
-nav li.current a {
+nav li .current a {
     color: #249ce0;
 }
 
@@ -79,16 +79,8 @@ ul li a {
     font-weight: 500;
 }
 
-
-
 li:last-child {
   margin-right:0;
-}
-
-
-
-nav ul{
-  float:right;
 }
 
 
