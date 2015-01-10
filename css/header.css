@@ -34,11 +34,6 @@ nav a {
     text-decoration: none;
 }
 
-nav li {
-    line-height: 25px;
-    font-size: 14px;
-    text-transform: uppercase;
-}
 
 nav ul {
     list-style-type: none;
