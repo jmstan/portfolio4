@@ -32,7 +32,11 @@ float:left;
 
 nav a {
     text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
 }
+
+
 
 
 nav ul {
@@ -67,12 +71,6 @@ li:first-child{
 }
 
 
-ul li a {
-    font-size: 18px;
-    color:black;
-    text-decoration: none;
-    font-weight: 500;
-}
 
 li:last-child {
   margin-right:0;
