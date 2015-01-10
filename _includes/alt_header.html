@@ -35,7 +35,7 @@
                 <ul>
                 {% for link in site.navigation %}
                     {% assign current = nil %}
-                    {% if page.url contains link.url %}
+                    {% if url contains link.url %}
                         {% assign current = 'current' %}
                     {% endif %}
                   <!--  <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}"> -->
