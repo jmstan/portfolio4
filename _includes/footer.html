@@ -77,18 +77,7 @@ $('.photoset-grid-basic').photosetGrid();
 </script> 
 
 <script>
-
-$(document).ready(function(){
-    magicline();
-});
-
-function magicline() {
-
-    var $el, leftPos, newWidth,
-        $mainNav = $("#example-one");
-    $("#magic-line").remove();
-    $mainNav.append("<li id='magic-line'></li>");
-    var $magicLine = $("#magic-line");
+ var $magicLine = $("#magic-line");
     
     $magicLine
         .width($(".current_page_item").width())
@@ -96,10 +85,11 @@ function magicline() {
         .data("origLeft", $magicLine.position().left)
         .data("origWidth", $magicLine.width());
         
-    $("#example-one li a").hover(function() {
+   $("#example-one .current_page_item").find("a").hover(function() {
         $el = $(this);
         leftPos = $el.position().left;
         newWidth = $el.parent().width();
+        
         $magicLine.stop().animate({
             left: leftPos,
             width: newWidth
@@ -110,18 +100,7 @@ function magicline() {
             width: $magicLine.data("origWidth")
         });    
     });
-}
-$('li a').on('click',function(){
-    $('li').each(function(){  $(this).removeClass('current_page_item');           
-
-    });
-    $(this).parent().addClass('current_page_item');
-                            magicline();
-});
-    
-    
-   
-</script>    
+</script>
     
 
 </body>
