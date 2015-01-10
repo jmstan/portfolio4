@@ -53,7 +53,7 @@ nav li a:hover {
   color:#249ce0;
 }
 
-nav li a:active {
+nav li .current a:active {
   color: #249ce0;
 } 
 
