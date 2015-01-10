@@ -23,7 +23,7 @@ header{
   margin-top: 3% ;
 }
 
-li.menu{
+li {
 list-style: none;
 margin-top: 22px;
 margin-left: 15px;
@@ -73,7 +73,7 @@ nav li.current a {
 
 
 
-li.menu:first-child{
+li:first-child{
   margin-left: 0px;
 }
 
