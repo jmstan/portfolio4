@@ -232,6 +232,7 @@ span.blue-text a{
 li.skills a{
   font-weight: 400;
   color: #249ce0;
+  text-decoration: none;
 }
 
 .portrait{

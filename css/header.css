@@ -34,13 +34,13 @@ li:last-child {
   margin-right:0;
 }
 
-nav ul {
+nav .element > ul {
     list-style-type: none;
     padding: 0;
     float:right;
     }
 
-nav a {
+nav .element > a {
     text-decoration: none;
     font-size: 18px;
     font-weight: 500;
@@ -54,7 +54,7 @@ nav a {
     color: black;
 } */
 
-nav li a:hover {
+nav .element > li a:hover {
   color:#249ce0;
 } 
 
@@ -65,18 +65,18 @@ nav li a:hover {
 li.element a:active{
     color: #249ce0;
 }  */
-nav a {
+nav .element > a {
     text-decoration: none;
     color:black;
 }
 
 
 
-nav li.current a {
+nav .element > li.current a {
     color: #249ce0;
 }
 
-nav ul {
+nav .element > ul {
     list-style-type: none;
     padding: 0;
 }
@@ -105,7 +105,7 @@ nav ul {
     overflow: hidden;
   }
 
-nav ul{
+nav  ul{
     text-align: center;
     float:none;
     margin: 0%;
