@@ -48,11 +48,11 @@ nav a {
 
 
 
-/*nav li a:link {
+nav li a:link {
     color: black;
 }
 
-nav li a:visited {
+/*nav li a:visited {
     color: black;
 }
 
@@ -71,14 +71,10 @@ nav a {
     text-decoration: none;
 }
 
-nav li {
-    line-height: 25px;
-    font-size: 14px;
-    text-transform: uppercase;
-}
+
 
 nav li.current a {
-    color: blue;
+    color: #249ce0;
 }
 
 nav ul {
