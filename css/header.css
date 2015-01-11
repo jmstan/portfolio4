@@ -48,7 +48,7 @@ nav a {
 
 
 
-nav li a:link {
+/*nav li a:link {
     color: black;
 }
 
@@ -60,17 +60,33 @@ nav li a:hover {
   color:#249ce0;
 } 
 
- nav li a:active {
+nav li a:active {
   color: #249ce0;
 } 
 
 li.element a:active{
     color: #249ce0;
-} 
-
-nav li .current a:active {
-    color: #249ce0;
+}  */
+nav a {
+    text-decoration: none;
 }
+
+nav li {
+    line-height: 25px;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+nav li.current a {
+    color: #111;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+
 
 
 
