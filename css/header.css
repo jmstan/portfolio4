@@ -26,7 +26,7 @@ header{
 li {
 list-style: none;
 margin-top: 22px;
-margin-left: 15px;
+/*margin-left: 15px; */
 float:left;
 }
 
@@ -47,7 +47,9 @@ nav a {
 }
 
 
-
+li.element {
+  margin-left: 15px;
+}
 
 
 /*nav li a:visited {
