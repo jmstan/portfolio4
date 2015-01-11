@@ -68,6 +68,9 @@ nav li a:hover {
   color: #249ce0;
 } 
 
+.element a:active{
+    color: #249ce0;
+}
 
 
 
