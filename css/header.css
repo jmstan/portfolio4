@@ -48,9 +48,7 @@ nav a {
 
 
 
-nav li a:link {
-    color: black;
-}
+
 
 /*nav li a:visited {
     color: black;
@@ -69,6 +67,7 @@ li.element a:active{
 }  */
 nav a {
     text-decoration: none;
+    color:black;
 }
 
 
