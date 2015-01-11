@@ -47,10 +47,6 @@ nav a {
 }
 
 
-nav li .current a {
-    color: #249ce0;
-}
-
 
 nav li a:link {
     color: black;
@@ -64,14 +60,18 @@ nav li a:hover {
   color:#249ce0;
 } 
 
- nav li a:active {
+ /*nav li a:active {
   color: #249ce0;
 } 
 
 li.element a:active{
     color: #249ce0;
-}
+} */
 
+
+nav li .current a {
+    color: #249ce0;
+}
 
 
 
