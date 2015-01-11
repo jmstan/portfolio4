@@ -78,7 +78,7 @@ nav li {
 }
 
 nav li.current a {
-    color: #111;
+    color: blue;
 }
 
 nav ul {
