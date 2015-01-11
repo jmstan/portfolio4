@@ -69,6 +69,12 @@ html, body{
     padding-top: 10px;
     letter-spacing: 1px;
     }
+
+  .blog{
+    width:100%;
+    display: block;
+  }
+
     
 @media screen and (max-width:600px){
 
