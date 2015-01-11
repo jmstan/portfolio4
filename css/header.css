@@ -54,13 +54,13 @@ nav li a:link {
 
 /*nav li a:visited {
     color: black;
-}
+} */
 
 nav li a:hover {
   color:#249ce0;
 } 
 
-nav li a:active {
+/*nav li a:active {
   color: #249ce0;
 } 
 
