@@ -306,20 +306,16 @@ aside:last-child{
   color:black;
   }
 
-
-
-
-
 .starter-title{
   text-align: center;
 }
 
+   .group1{
+    width:100% ;
+  }
 
 @media screen (min-width: 768px) and (max-width:989px){
 
-   .group1{
-    width:100% !important;
-  }
 
   .portrait{
     margin-top: 14%;
