@@ -69,7 +69,7 @@ li.element a:active{
 } */
 
 
-nav li .current a {
+nav li .current a:active {
     color: #249ce0;
 }
 
