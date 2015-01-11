@@ -317,6 +317,10 @@ aside:last-child{
 
 @media screen (min-width: 768px) and (max-width:989px){
 
+   .blog{
+    width:100% !important;
+  }
+
   .portrait{
     margin-top: 14%;
     float:right;
@@ -341,9 +345,7 @@ aside:last-child{
     margin-top: 12%;
   }
 
-  .blog{
-    width:100% !important;
-  }
+ 
 }
 
 
