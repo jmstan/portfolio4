@@ -340,6 +340,11 @@ aside:last-child{
     margin-top: 12%;
   }
 
+  .blog{
+    width:100%;
+    display: block;
+  }
+
  
 }
 
