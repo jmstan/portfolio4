@@ -149,6 +149,10 @@ body{
 
 /*---blog---*/
 
+.blog{
+  width:100%;
+}
+
 .title, .blog-title2{
   margin-top: 3%;
   text-align: center;
