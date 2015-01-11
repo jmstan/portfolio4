@@ -85,6 +85,9 @@ nav  ul {
 
 
 
+   .skills{
+    float:none;
+   }
 
 
 
@@ -97,9 +100,6 @@ nav  ul {
    	font-size: 18px;
    }
 
-   .skills{
-    float:none;
-   }
 
   
 	}
@@ -111,7 +111,7 @@ nav  ul {
     overflow: hidden;
   }
 
-nav  ul{
+  nav  ul{
     text-align: center;
     float:none;
     margin: 0%;
