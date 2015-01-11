@@ -308,7 +308,7 @@ aside:last-child{
 
 
 
-/*----classwork-----*/
+
 
 .starter-title{
   text-align: center;
@@ -317,7 +317,7 @@ aside:last-child{
 
 @media screen (min-width: 768px) and (max-width:989px){
 
-   .blog{
+   .group{
     width:100% !important;
   }
 
