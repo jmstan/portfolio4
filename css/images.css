@@ -6,21 +6,21 @@ html, body{
     position:relative;	
 	}
 
-/*.photoset-row.cols-1{
+.photoset-row.cols-1{
     width:85%;
     margin:30px auto 0px;
-    } */
+    } 
 
 .photoset-row.cols-2, .image6{
-   /* width: 85%;
+    width: 85%;
     margin:35px auto 10px;*/
     margin-top:5%;
     } 
 
-/*.photoset-row-cols-3{
+.photoset-row-cols-3{
     width:85%;
     margin: 0 auto;
-    } */
+    } 
 
 .photoset-grid-custom{
     text-align: center;
