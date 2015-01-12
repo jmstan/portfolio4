@@ -451,12 +451,12 @@ span.button-text{
 @media screen and (max-width: 640px){
 
 	h1.starter-title{
-		font-size: 28px;
+		font-size: 20px;
 	}
 	
 	.the{
 		top: -6px;
-		font-size: 20px;
+		font-size: 14px;
 	}
 	
 	.head1{
