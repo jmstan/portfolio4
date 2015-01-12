@@ -26,7 +26,6 @@ header{
 li {
 list-style: none;
 margin-top: 22px;
-/*margin-left: 15px; */
 float:left;
 }
 
@@ -52,26 +51,14 @@ li.element {
 }
 
 
-/*nav li a:visited {
-    color: black;
-} */
-
 nav li a:hover {
   color:#249ce0;
 } 
 
-/*nav li a:active {
-  color: #249ce0;
-} 
-
-li.element a:active{
-    color: #249ce0;
-}  */
 nav  a {
     text-decoration: none;
     color:black;
 }
-
 
 
 nav li.current a {
@@ -84,10 +71,9 @@ nav  ul {
 }
 
 
-
-   .skills{
+.skills{
     float:none;
-   }
+}
 
 
 
@@ -99,6 +85,20 @@ nav  ul {
    .main-title2{
    	font-size: 18px;
    }
+
+   h1{
+    font-size: 36px;
+   }
+
+   .main-title{
+    font-size: 24px;
+   }
+
+   nav a, .main-title2{
+    font-size: 16px;
+   }
+
+
 
 
   
