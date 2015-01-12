@@ -43,6 +43,11 @@ html, body{
     position: relative;
 }
 
+.image-top{
+    margin-top: 6%;
+}
+
+
 .group1{
     margin-left: -10px;
     }
