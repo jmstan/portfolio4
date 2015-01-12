@@ -392,7 +392,11 @@ span.button-text{
 @media screen and (min-width:641px) and (max-width: 989px){
 	
 	.starter-title{
-		font-size: 48px;
+		font-size: 34px;
+	}
+
+	.the{
+		top:-10px;
 	}
 
 	.visual-title{
@@ -406,10 +410,6 @@ span.button-text{
 	 	text-decoration: none;
 	 }
 
-	
-	.the{
-		top:-17px;
-	}
 	
 	p.inline-text{
 		padding: 20px 10px;
