@@ -326,7 +326,7 @@ aside:last-child{
   }
 
   .thumb3{
-    margin-top: 12%;
+    margin-top: 12% !important;
   }
 
   .list-title, .skills, .interests-title{
