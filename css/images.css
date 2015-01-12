@@ -24,9 +24,7 @@ html, body{
 
 .photoset-grid-custom{
     text-align: center;
-    }
-
-
+    
 
     
 .month{
@@ -37,12 +35,9 @@ html, body{
     letter-spacing: 1px;
     } 
 
-/*.content-title{
-    position: absolute;
-    top: 140px;
-    width: 100%;
-    letter-spacing: 1px; 
-	}  */
+.image6{
+    position: relative;
+}
 
 .group1{
     margin-left: -10px;
@@ -56,7 +51,9 @@ html, body{
     }
 
 .head-title{
-    font-family:'Didact Gothic', sans-serif;
+    position: absolute;
+    width: 100%;
+    top: 250px;
     text-align:center;
     font-size: 24px;
     color: white;
