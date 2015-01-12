@@ -72,7 +72,7 @@ h2.costarica-title{
 @media screen and (min-width:641px) and (max-width: 989px){
 
 .blog{
-    width: 100%;
+    width: 100% !important;
     }
 
 }
