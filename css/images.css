@@ -50,7 +50,7 @@ html, body{
     margin-left: 10px;
     }
 
-.head-title{
+h2.head-title{
     position: absolute;
     width: 100%;
     top: 250px;
