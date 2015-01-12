@@ -325,6 +325,10 @@ aside:last-child{
    
   }
 
+  .thumb3{
+    margin-top: 12%;
+  }
+
   .list-title, .skills, .interests-title{
     text-align: left;
   }
