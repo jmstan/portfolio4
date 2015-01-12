@@ -78,13 +78,13 @@ h2.costarica-title{
 }
 
     
-@media screen and (max-width:600px){
+@media screen and (max-width:640px){
 
 .content-title{
     top:90px;
     }
 
-h2.head-title{
+h2.costarica{
    font-size:20px;
    }
    
