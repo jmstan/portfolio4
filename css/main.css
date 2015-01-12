@@ -343,9 +343,9 @@ aside:last-child{
 
 @media screen and (max-width: 767px){
 
-   .header2{
+   /*.header2{
     margin-top: 5%;
-  }
+  } */
 
   .portrait{
     width:50%;
@@ -373,7 +373,7 @@ aside:last-child{
 
  .main-title, .interests-blurb{
     width: 80% !important;
-    margin: 5% 10% 5% !important;
+    margin: 5c% 10% 5% !important;
   }
 
  ul{
