@@ -195,6 +195,10 @@ img{
   display: block;
 }
 
+.name, .role, .link, .caption{
+  color: #4c4c4c;
+}
+
 
 .name{
   margin-top: 10px;
