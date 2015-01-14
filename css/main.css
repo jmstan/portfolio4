@@ -113,14 +113,14 @@ body{
 }
 
 .main-title{
+  font-family: "adobe-text-pro";
   font-size: 28px;
   margin-top: 6%;
-}
-
-.main-title{
   text-align:center;
   margin-bottom: 3%;
-  }
+}
+
+
 
 .main-title2{
   text-align: center;
