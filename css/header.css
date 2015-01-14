@@ -12,6 +12,9 @@ h2{
   font-size: 24px;
 }
 
+.myname{
+    margin-top: 7px;
+}
 
 
 .myname a {
@@ -19,7 +22,7 @@ h2{
   font-weight:400;
   text-decoration: none;
   color:#4c4c4c;
-  margin-top: 7px;
+
 }
 
 header{
