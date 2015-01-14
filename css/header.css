@@ -16,7 +16,7 @@ h2{
   font-style: normal;
   font-weight:400;
   text-decoration: none;
-  color:black;
+  color:gray;
 }
 
 header{
@@ -60,7 +60,7 @@ nav li a:hover {
 
 nav  a {
     text-decoration: none;
-    color:black;
+    color:gray;
 }
 
 
