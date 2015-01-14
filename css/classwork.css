@@ -71,12 +71,12 @@ letter-spacing: 2px;
 display: inline-block;
 font-size: 28px;
 top: -14px;
-
+color: #4c4c4c;
 padding-bottom: 0px;
 }
 
 span.blackline{
-	border-top: 2px solid black;
+	border-top: 2px solid #4c4c4c;
 
 }
 
@@ -91,7 +91,7 @@ color: black;
 letter-spacing: 2px;
 font-size: 46px;
 letter-spacing: 10px;
-color:black;
+color: #4c4c4c;
 text-align: center;
 text-transform: uppercase;
 padding-bottom: 8px;
