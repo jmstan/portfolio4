@@ -361,8 +361,8 @@ aside:last-child{
 
   .about-maintitle{
     font-size: 18px;
-    width: 80%;
-    margin: 5% 10%;
+   /* width: 80%;
+    margin: 5% 10%;  */
   }
 
   aside{
