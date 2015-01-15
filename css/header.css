@@ -126,7 +126,7 @@ nav  ul {
 	}
 
 
-@media screen and (max-width: 767px){
+@media screen and (max-width: 640px){
 
   nav  ul{
     text-align: center;

@@ -500,7 +500,7 @@ aside:last-child{
     margin-top: 12% !important;
   }
 
-  .list-title, .skills, .interests-title, .myname, .front{
+  .list-title, .skills, .interests-title, {
     text-align: left;
   }
 
