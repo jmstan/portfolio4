@@ -60,7 +60,7 @@ li.element {
   margin-left: 15px;
 }
 
-li.element:fist-child{
+li.element.first{
   margin-left: 0px;
 }
 
