@@ -508,8 +508,8 @@ aside:last-child{
     margin-top: 5%;
   }
 
-  .interests-blurb{
-    font-size: 18px;
+  .interests-blurb, .about{
+    font-size: 16px;
   }
   
  
