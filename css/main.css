@@ -191,7 +191,7 @@ p{
 }
 
 
-.thumb a:hover{
+.thumb:hover{
 border: solid 1px dark gray;
 -moz-box-shadow: 1px 1px 5px dark gray;
 -webkit-box-shadow: 1px 1px 5px dark gray;
