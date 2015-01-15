@@ -124,7 +124,7 @@ nav  ul {
 
 @media screen and (max-width: 767px){
 
-  /*nav{
+  nav{
     overflow: hidden;
   }
 
@@ -132,7 +132,7 @@ nav  ul {
     text-align: center;
     float:none;
     margin: 0%;
-    overflow: hidden;
+ 
   } 
 
   ul{
@@ -165,6 +165,6 @@ nav  ul {
   .myname{
    text-align: center;
     
-  }  */ 
+  }  
 
 }
