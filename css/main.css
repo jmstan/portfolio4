@@ -378,10 +378,10 @@ aside:last-child{
   }
 
 
- .main-title, .interests-blurb{
+ /*.main-title, .interests-blurb{
     width: 80% !important;
     margin: 5% 10% 5% !important;
-  }
+  } */
 
  ul{
   float:none;
@@ -395,10 +395,10 @@ aside:last-child{
     text-align: center;
   }
 
- .about{
+ /*.about{
     width: 80% !important;
     margin: 0% 10% 0% !important;
-  }
+  } */
 
 }
 
