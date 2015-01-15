@@ -191,18 +191,24 @@ p{
 }
 
 
+.image_1{
+  figure.effect-selena img {
+  opacity: 0.95;
+  -webkit-transition: -webkit-transform 0.35s;
+  transition: transform 0.35s;
+  -webkit-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+}
+
+}
+
 .image_1:hover{
-
--moz-box-shadow: 1px 1px 5px gray;
--webkit-box-shadow: 1px 1px 5px gray;
-box-shadow: 5px 1px 5px gray;
-
-   transition: opacity .25s ease-in-out;
-   -moz-transition: opacity .25s ease-in-out;
-   -webkit-transition: opacity .25s ease-in-out;
-}
+    -webkit-transform: scale3d(0.95,0.95,1);
+  transform: scale3d(0.95,0.95,1);
 
 }
+
+
 
 .thumb3, .thumb4{
   margin-top: 12%;
