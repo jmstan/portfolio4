@@ -427,6 +427,11 @@ aside:last-child{
     margin: 5% 10% 5% !important;
   }
 
+  .interests-blurb{
+     margin: 2% 10% 5% !important;
+  }
+
+
   .about-maintitle{
     width: 80%;
     margin: 5% 10%;
