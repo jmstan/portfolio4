@@ -120,8 +120,10 @@ nav  ul {
   .myname, .front{
     display: block;
   }
-
-
+ 
+  .front{
+    padding-left: 0px;
+  }
   
 	}
 
