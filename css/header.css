@@ -137,7 +137,9 @@ nav  ul {
   	float:none;
   }
 
- 
+ ul li a{
+   font-size: 16px;
+ }
 
   nav li{
     list-style: none;
@@ -153,10 +155,6 @@ nav  ul {
   }  
 
 
- nav li.current a {
-    color: #249ce0;
-    border-bottom: 2px solid #249ce0;
-}
 
   .myname{
    text-align: center;
