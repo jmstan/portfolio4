@@ -192,7 +192,7 @@ p{
 
 
 .image_1{
-
+  background: #fff;
   opacity: 0.95;
   -webkit-transition: -webkit-transform 0.35s;
   transition: transform 0.35s;
