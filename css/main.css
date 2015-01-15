@@ -192,7 +192,7 @@ p{
 
 
 .thumb:hover{
-box-shadow: 1px solid dark gray;
+border: 1px solid dark gray;
 -moz-box-shadow: 1px 1px 5px dark gray;
 -webkit-box-shadow: 1px 1px 5px dark gray;
 box-shadow: 1px 1px 5px dark gray;
