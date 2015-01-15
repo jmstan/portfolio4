@@ -124,7 +124,7 @@ nav  ul {
 
 @media screen and (max-width: 767px){
 
-  nav{
+  /*nav{
     overflow: hidden;
   }
 
@@ -133,7 +133,7 @@ nav  ul {
     float:none;
     margin: 0%;
     overflow: hidden;
-  }
+  } */
 
   ul{
   	float:none;
