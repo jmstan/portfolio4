@@ -158,6 +158,10 @@ body{
   text-align: center;
 }
 
+.box1, .box2{
+  margin-top: 10%;
+}
+
 .blog-title2{
   margin-bottom: 5%;
 }
