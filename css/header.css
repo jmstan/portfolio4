@@ -124,7 +124,7 @@ nav  ul {
 
 @media screen and (max-width: 767px){
 
-  /*nav{
+  nav{
     overflow: hidden;
   }
 
@@ -133,15 +133,15 @@ nav  ul {
     float:none;
     margin: 0%;
     overflow: hidden;
-  } */
+  } 
 
-  ul{
+ /* ul{
   	float:none;
   }
 
   ul li a{
     font-size: 18px;
-  }
+  } */
 
   nav li{
     list-style: none;
