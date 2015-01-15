@@ -432,6 +432,11 @@ aside:last-child{
     margin: 5% 10%;
   }
 
+  .about{
+    width: 80% !important;
+    margin: 0% 10% 0% !important;
+  }
+
   .header2{
     margin-top: 3%;
   }
