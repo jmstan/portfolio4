@@ -191,8 +191,8 @@ p{
 }
 
 
-.image_1{
-  background: #fff;
+.thumb{
+ background-color: #fff;
   opacity: 0.95;
   -webkit-transition: -webkit-transform 0.35s;
   transition: transform 0.35s;
@@ -202,7 +202,7 @@ p{
 
 }
 
-.image_1:hover{
+.thumb:hover{
     -webkit-transform: scale3d(0.95,0.95,1);
   transform: scale3d(0.95,0.95,1);
 
