@@ -196,10 +196,10 @@ border: 1px solid gray;
 -moz-box-shadow: 1px 1px 5px gray;
 -webkit-box-shadow: 1px 1px 5px gray;
 box-shadow: 1px 1px 5px gray;
--o-transition:.5s;
-  -ms-transition:.5s;
-  -moz-transition:.5s;
-  -webkit-transition:.5s;
+
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
 }
 
 }
