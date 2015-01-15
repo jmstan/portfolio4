@@ -135,17 +135,17 @@ nav  ul {
     overflow: hidden;
   } 
 
- /* ul{
+  ul{
   	float:none;
   }
 
   ul li a{
     font-size: 18px;
-  } */
+  } 
 
-  nav li{
+ /* nav li{
     list-style: none;
-   /* text-decoration: none; */
+   text-decoration: none; 
     margin-left: 15px;
     margin-top: 22px;
     overflow: hidden;
@@ -154,7 +154,7 @@ nav  ul {
     display: inline-block;
     padding: 0%;
     float: none !important;
-  } 
+  }  */
 
 
  nav li.current a {
