@@ -467,9 +467,11 @@ aside:last-child{
     font-size: 18px;
   }
 
-  .name, .caption, .role, .link{
+  .list-title, .skills, .interests-title, .name, .caption, .role, .link{
     text-align: center;
   }
+
+
 
   .name{
     margin-top: 10%;
