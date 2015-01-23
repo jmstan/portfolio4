@@ -1,14 +1,14 @@
-markdown: rdiscount
-pygments: true
-auto: true
+#markdown: rdiscount
+#pygments: true
+#auto: true
 
 #ftp_host: 'janestanton.co'
 #ftp_dir: '/web/content'
 #ftp_passive: false
 
 # optional
-ftp_port: 21                  # default 21
-ftp_username: 'stanjane'     # default read from stdin
+#ftp_port: 21                  # default 21
+#ftp_username: 'stanjane'     # default read from stdin
 #ftp_password: 'your_ftp_pass' # default read from stdin
 
 
@@ -16,7 +16,7 @@ ftp_username: 'stanjane'     # default read from stdin
 
 title: Portfolio
 
-url: "http://jmstan.github.io
+url: "http://jmstan.github.io/portfolio4"
 #url: "janestanton.co/"
 
 
