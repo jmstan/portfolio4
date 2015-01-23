@@ -1,0 +1,93 @@
+
+html, body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    position:relative;	
+	}
+
+.photoset-row.cols-1{
+    width:85%;
+    margin:30px auto 0px;
+    } 
+
+.photoset-row.cols-2, .image6{
+    width: 85%;
+    margin:35px auto 10px;*/
+    margin-top:5%;
+    } 
+
+.photoset-row-cols-3{
+    width:85%;
+    margin: 0 auto;
+    } 
+
+.photoset-grid-custom{
+    text-align: center;
+    }
+
+    
+.month{
+  	text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    margin: 25px 0px 0px 0px;
+    letter-spacing: 1px;
+    } 
+
+.image6{
+    position: relative;
+}
+
+.image-top{
+    margin-top: 2c%;
+    }
+
+
+.group2{
+    width: 100%;
+    height: auto;
+    margin-top: 0px;
+    margin-left: 10px;
+    }
+
+h2.costarica-title{
+    position: absolute;
+    width: 100%;
+    top: 250px;
+    text-align:center;
+    font-size: 24px;
+    color: white;
+    letter-spacing: 1px;
+    }
+
+.content{
+    width: 75%;
+    margin: 0 auto 30px;
+    padding-top: 10px;
+    letter-spacing: 1px;
+    }
+
+
+@media screen and (min-width:641px) and (max-width: 989px){
+
+.blog{
+    width: 100% !important;
+    }
+
+}
+
+    
+@media screen and (max-width:640px){
+
+.content-title{
+    top:90px;
+    }
+
+h2.costarica-title{
+   font-size:20px;
+   }
+   
+}	 
+
+

@@ -1,0 +1,78 @@
+
+
+.email{
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #4c4c4c;
+    }
+
+
+.contact{
+    font-size: 18px;
+    }
+
+span.line{
+  border-top:1px solid #4c4c4c;
+  }
+
+.contact{
+    margin-bottom: 35px;
+    margin-top: 7%;
+    text-align: center;
+    }
+
+.svg-icons{
+    text-align: center;
+    overflow: hidden;
+    padding-left: 0px;
+    width:97px !important;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    float:none;
+    }
+
+#instagram > path:hover, path.Github:hover { 
+    fill: #249ce0; 
+    transition: .2s;
+    cursor: pointer;
+    }
+
+svg.github{
+  margin-top: 2px;
+  }
+
+#Cat:hover {
+    fill: white;
+    }
+
+li{
+    list-style: none;
+    }
+
+li.icon{
+    float:left;
+    margin-top: 0px;
+    }
+
+li.icon:last-child{
+    margin-left: 15px;
+    }
+
+ul.tools, ul{
+    padding-left:0px; 
+    float: none;
+    }
+
+
+@media screen and (max-width: 640px){
+
+.email{
+    font-size: 20px;
+    }
+
+}
+
+

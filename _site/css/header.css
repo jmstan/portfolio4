@@ -1,0 +1,159 @@
+
+
+html *{
+    font-family: "franklin-gothic-urw";
+    color: #4c4c4c;
+    }
+
+header{
+  margin-top: 3%;
+  background-color: white;
+  padding: 25px 0px;
+  margin-top: 0px;
+  }
+
+h1{
+  font-size: 42px;
+  } 
+
+h2{
+  font-size: 24px;
+  }
+
+.myname{
+    margin-top: 7px;
+    }
+
+.myname a {
+  font-style: normal;
+  font-weight:400;
+  text-decoration: none;
+  color:#4c4c4c;
+  }
+
+li {
+  list-style: none;
+  margin-top: 22px;
+  float:left;
+}
+
+li:last-child {
+  margin-right:0;
+  }
+
+nav  ul {
+  list-style-type: none;
+  padding: 0;
+  float:right;
+  }
+
+nav a {
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 500;
+  }
+
+
+li.element {
+  margin-left: 15px;
+}
+
+li.element.first{
+  margin-left: 0px;
+}
+
+nav  ul {
+  list-style-type: none;
+  padding: 0;
+  }
+
+nav  a {
+    text-decoration: none;
+    color:#4c4c4c;
+    }
+
+nav li a:hover {
+  color:#249ce0;
+  } 
+
+nav li.current a {
+  color: #249ce0;
+  border-bottom: 2px solid #249ce0;
+}
+
+.skills{
+  float:none;
+  }
+
+.front{
+  font-size: 18px;
+  vertical-align: middle;
+  padding-left: 5px;
+  }
+
+@media screen and (min-width: 641px) and (max-width:989px){
+   
+   .header2{
+   	font-size: 20px;
+    }
+
+   .main-title2{
+   	font-size: 18px;
+    }
+
+   h1{
+    font-size: 36px;
+    }
+
+   .main-title{
+    font-size: 24px;
+    }
+
+   nav a, .main-title2{
+    font-size: 16px;
+    }
+
+  .myname, .front{
+    display: block;
+    }
+ 
+  .front{
+    padding-left: 0px;
+    }
+  
+}
+
+
+@media screen and (max-width: 640px){
+
+  nav  ul{
+    text-align: center;
+    float:none;
+    margin: 0%;
+    } 
+
+  ul li a{
+   font-size: 16px;
+  }
+
+  nav li{
+    list-style: none;
+    text-decoration: none; 
+    margin-left: 15px;
+    margin-top: 22px;
+    float: right;
+    font-size: 18px;
+    display: inline-block;
+    padding: 0%;
+    float: none !important;
+    }  
+
+  .front{
+    margin-top: 2%;
+  }
+
+  .myname{
+   text-align: center;
+  }  
+
+}
