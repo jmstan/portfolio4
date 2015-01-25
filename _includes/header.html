@@ -30,9 +30,9 @@
             <nav class="da10-da13 t5-t7 m-all">
                 <ul>
                 {% for link in site.navigation %}
-                   {% assign current = nil %}  
+                <!--   {% assign current = nil %}  
                     {% if page.url contains link.url %}  
-                       {% assign current = 'current' %}  
+                       {% assign current = 'current' %}  -->
                     {% endif %}
                   <!--  <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">  --> 
                        <a href="{{site.url}}{{link.url}}">{{ link.title }}</a>   
