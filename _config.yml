@@ -22,7 +22,7 @@ url: "janestanton.co/"
 
 
 
-baseurl: "/"
+#baseurl: "/"
 
 #baseurl: "/portfolio4"
 permalink: pretty
