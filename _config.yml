@@ -16,13 +16,13 @@
 
 title: Portfolio
 
-#url: "http://jmstan.github.io/portfolio4/"
-url: "janestanton.co/"
+url: "http://jmstan.github.io/portfolio4/"
+#url: "janestanton.co/"
 
 
 
 #baseurl: "portfolio4"
-#baseurl: "/portfolio4"
+baseurl: "/portfolio4"
 permalink: pretty
 
 
