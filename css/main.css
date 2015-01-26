@@ -183,6 +183,7 @@ p{
   transition: transform 0.35s;
   -webkit-transform-origin: 50% 50%;
   transform-origin: 50% 50%;
+  width:100%;
   }
 
 .image_1:hover{
