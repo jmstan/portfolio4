@@ -6,12 +6,12 @@ title: Portfolio
 
 #url: "janestanton.tld"
 #url: "janestanton.co/"
-url: "http://jmstan.github.io/portfolio4"
+url: "http://jmstan.github.io"
 
 
 
 
-baseurl: "/"
+baseurl: "/porfolio4"
 #baseurl: "/"
 #baseurl: "/portfolio4"
 permalink: pretty
