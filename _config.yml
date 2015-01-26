@@ -4,15 +4,15 @@
 
 title: Portfolio
 
-url: "janestanton.tld"
+#url: "janestanton.tld"
 #url: "janestanton.co/"
+url: "http://jmstan.github.io"
 
 
 
 
-
+baseurl: "/portfolio4"
 #baseurl: "/"
-
 #baseurl: "/portfolio4"
 permalink: pretty
 
