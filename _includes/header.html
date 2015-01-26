@@ -29,7 +29,7 @@
 
           <nav class="da10-da13 t5-t7 m-all">
                 <ul>
-                {% for link in site.pages %}
+                {% for link in site.navigation %}
                     {% assign current = nil %}
                     {% if page.url contains link.url %}
                         {% assign current = 'current' %}
