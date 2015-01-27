@@ -20,7 +20,7 @@
 
 
      <header class="d-all t-all m-all">
-            <h1 class="myname d2-d7 t2-t4 m-all"><a href="{{baseurl}}{{link.url}}">Jane Stanton <span class="front  m-all">Front-End Developer </span> </a> </h1>   
+            <h1 class="myname d2-d7 t2-t4 m-all"><a href="{{site.baseurl}}{{link.url}}">Jane Stanton <span class="front  m-all">Front-End Developer </span> </a> </h1>   
             <nav class="d10-d13 t5-t7 m1">
                 <ul>
                 {% for link in site.navigation %}
@@ -29,7 +29,7 @@
                         {% assign current = 'current' %}
                     {% endif %}
                   <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
-                        <a href="{{baseurl}}/{{link.url }}">{{ link.title }}</a>
+                        <a href="{{site.baseurl}}/{{link.url }}">{{ link.title }}</a>
                     </li>
                 {% endfor %}
                 </ul>
