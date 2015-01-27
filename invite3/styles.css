@@ -1,0 +1,271 @@
+.title2{
+	/*font-family: 'Old Standard TT', serif;*/
+	  font-family: "franklin-gothic-urw-cond";
+	/*font-style: italic;*/
+	margin: 0px;
+	font-size: 32px;
+	font-weight: 300;
+	color: #424242;
+	
+}
+
+
+.container2{
+background: url('newmap1.png');
+width:1050px;
+height:700px;
+background-repeat: no-repeat;
+background-repeat: no-repeat;
+overflow: hidden;
+
+}
+
+
+
+h3{
+	font-style: normal;
+	 font-family: "franklin-gothic-urw-cond";
+	 font-size: 36px;
+	 margin-bottom: 0px;
+	 letter-spacing: 1px;
+	 font-weight: 300;
+	 text-transform: uppercase;
+	 margin-top: 0px;
+	
+}
+
+h1.title{
+  font-family: "franklin-gothic-urw-cond";
+  margin: 0px;
+  font-style: normal;
+  color:#20427c;
+  text-transform: uppercase;
+ letter-spacing: 1px; 
+ font-size: 72px;
+ float:left;
+  }
+
+h2{
+  font-family: "franklin-gothic-urw-cond";
+  margin:0px;
+  letter-spacing: 1.5px;
+  line-height: 1.5;
+  font-weight: 300;
+  text-transform: uppercase;
+  }
+  
+.gradient{
+  background: -webkit-linear-gradient(left top, #424242, #e7e7e7); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom right, #424242,  #e7e7e7); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(bottom right, #424242, #e7e7e7); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom right, #424242, #e7e7e7); 
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+.headers{
+	float: left;
+	height:195px;
+	padding-left: 25px;
+}
+.box2{
+
+	padding-left: 25px;
+	padding-top: 172px;
+	
+}
+
+
+.rsvp, .provide, .save{
+
+	float:left;
+	width:350px;
+	padding-left: 30px;
+}
+
+form{
+	width:335px;
+	text-align: left;
+}
+
+input{
+	margin: 10px 10px 0px;
+	border:none;
+}
+
+
+h4{
+	display: inline-block;
+	margin:0px;
+}
+
+
+.email{
+	margin-right: 43px;
+}
+
+.last{
+	margin-right: 2px;
+}
+
+button{
+  float: left;
+  margin-right: 20px;
+  margin-top: 10px;
+  border:none;
+  padding: 5px 10px;
+  background-color: #424242;
+  color:white;
+  font-family: "franklin-gothic-urw-cond";
+  clear:both;
+  font-size: 16px;
+}
+
+
+.date{
+	line-height: 1.2;
+	
+}
+
+
+.first, .last, .email{
+	font-family: "franklin-gothic-urw-cond";
+color:#424242;
+letter-spacing: 1.5px;
+line-height: 1.7;
+font-weight: 300;
+font-size: 20px;
+text-transform: uppercase;
+}
+
+.details{
+	line-height: 1.5;
+	text-transform: uppercase;
+}
+
+
+.when, .winner, .box{
+	color: #424242;
+}
+
+
+.title3{
+	font-family: "franklin-gothic-urw-cond";
+	float: right;
+margin-top: 34px;
+font-size: 22px;
+color:#424242;
+
+text-align:right;
+text-transform: uppercase;
+}
+
+
+ul{
+	float:left;
+	display: inline-flex;
+	
+	padding-top: 79px;
+	padding-left:12px;
+	
+}
+
+ul li{
+	text-decoration: none;
+	list-style: none;
+	float:right;
+	margin-left: 15px;
+}
+
+.sat{
+font-weight: 500;
+font-size: 41px;
+font-style: normal;
+text-transform: uppercase;
+}
+
+.location{
+font-weight: 500;	
+font-size: 36px;
+font-style: normal;
+text-transform: uppercase;
+}
+
+.building{
+	font-weight: 600;
+	  background: -webkit-linear-gradient(left top, #424242, #e7e7e7); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom right, #424242,  #e7e7e7); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(bottom right, #424242, #e7e7e7); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom right, #424242, #e7e7e7); 
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+.where{
+	margin-top: 25px;
+}
+
+
+.blue{
+	color: #4087fd;
+}
+
+input{
+	margin: 10px 10px 0px;
+	border:none;
+	width:175px;
+	height:25px;
+}
+
+.box{
+	margin-top: -176px;
+}
+
+label{
+	float:left;
+	clear:none;
+}
+
+.email{
+	margin-right: 49px;
+}
+
+.last{
+	margin-right: 5px;
+}
+
+.space{
+	 padding-top: 20px;
+}
+
+.provide{
+	padding-top: 22px;
+}
+
+.save{
+	padding-top: 34px;
+}
+
+
+.calendar, .calendar1{
+	float:left;
+}
+
+
+.calendar{
+	padding-right: 10px;
+}
+
+.calendar1{
+	margin-top: 3px;
+}
+
+.microsoft{
+	margin-top: 7px;
+}
+
+.sponsors{
+	letter-spacing: 1px;
+}
