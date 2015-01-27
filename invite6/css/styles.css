@@ -69,12 +69,8 @@ margin-top: 22px;
 }
 
 form{
-	width:306px;  
-}
-
-input{
-	margin: 10px 0px 0px;
-	border:none;
+	width:306px;
+	margin: auto;  
 }
 
 
@@ -203,11 +199,12 @@ font-family: 'fira-sans';
 }
 
 input{
-	margin: 10px 10px 0px 0px;
+	margin: 10px 0px 10px 0px;
 	border:none;
 	width:175px;
 	height:25px;
 	background-color: lightgray;
+	float:right;
 }
 
 
