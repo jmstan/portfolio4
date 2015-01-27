@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+
+<title>Gridset Demo</title>
+
+<meta name="viewport" content="width=device-width, minimum-scale=1.0" />
+<link href="https://get.gridsetapp.com/31546/" rel="stylesheet" />
+
+<!-- Gridset CSS -->
+<!--[if (!IE) | (gt IE 8)]><!--><link rel="stylesheet" href="./css/gridset.css" /><!--<![endif]-->
+<!--[if lte IE 8]><link rel="stylesheet" href="./css/gridset-ie-lte8.css" /><![endif]-->
+
+<!-- Totally unnecessary demo styles - REMOVE FOR YOUR USE -->
+<style type="text/css">
+
+	/* simple reset */
+	html, body, p, div, div {
+			margin: 0;
+			padding: 0;
+			border: 0;
+			outline: 0;
+			font-size: 100%;
+			vertical-align: baseline;
+			background: transparent;
+		}
+	
+
+	
+		.wrapper {
+			margin: 0 auto;
+			width: 90%;
+			float: none;
+			/*padding-top: 2.5em;*/
+		}
+		
+		div {
+			float: left;
+			width: 100%;
+	
+			display: block;
+			position: relative;
+			*zoom: 1;
+		}
+		
+		
+				div {
+			display: none;
+		} 
+		
+	
+		.wrapper {
+			display: block;
+		} 
+		
+		/* IE 7 only styles */
+		
+		.gs-ie7clear {
+			display: block;
+			width: 100%;
+			border: none;
+			background: none;
+			float: left;
+			clear: both;
+			height: 0;
+			margin: 0 0 0 100%;
+			visibility: hidden;
+		}
+		
+		
+/*body{
+width:95%;
+margin: 0 auto;
+}*/
+
+
+.left-image{
+position: absolute;
+width: 39% !important;
+margin-top: 2%;
+display: inline-block;
+}
+
+
+
+.title{
+background-color: #efe522;
+/*width: 555px;*/
+width:42%;
+height: 45%;
+z-index: 1;
+position: relative;
+margin-top: 51%;
+margin-left: 2%;
+display: inline-block; 
+}
+
+
+.gallery-name{
+font-family: 'Open Sans', sans-serif;	
+font-size: 20px;
+font-weight: 700;
+text-transform: uppercase;
+letter-spacing: 3px;
+display: inline-block;
+}
+
+ .location, .site, .date{
+ font-family: 'Gentium Book Basic', serif;
+ font-size: 24px;	
+}
+
+
+.location{
+	letter-spacing: 14px;
+	margin-top: 10px;	
+}
+
+
+.date{
+	letter-spacing: 3px;
+	margin-top: 5px;
+}
+
+
+.gallery-info{
+	text-align: center;
+
+	display: inline-block;
+	line-height: 2;
+}
+
+ .location, .site, .date{
+ font-family: 'Gentium Book Basic', serif;
+ font-size: 24px;
+ display: inline-block;	
+}
+
+.site{
+font-family: 'Gentium Book Basic', serif;
+	letter-spacing: 5px;
+	margin-top: 6px;
+	font-size: 22px;
+}
+
+
+
+
+p.blurb{
+	font-family:  'Gentium Book Basic', serif;
+	font-size: 16px;
+}
+
+.line1{
+font-family: 'Open Sans', sans-serif;
+letter-spacing: 1px;
+font-size: 22px;
+text-transform: uppercase;
+font-weight: 700;
+display: inline;
+margin-left: 5px;
+}
+
+
+
+
+.line2{
+font-size: 20px;
+letter-spacing: 1px;
+
+font-family: 'Gentium Book Basic', serif;
+text-transform: lowercase;
+font-weight: 500;
+line-height: 2;
+
+}
+
+
+.line3{
+font-family: 'Open Sans', sans-serif;
+letter-spacing: 1px;
+font-size: 20px;
+text-transform: uppercase;
+font-weight: 700;
+display: inline;
+margin-left: 5px;
+
+}
+
+
+.line4{
+font-family: 'Gentium Book Basic', serif;
+font-size: 20px;
+letter-spacing: 1px;
+
+
+}
+
+
+.line5{
+
+font-size: 20px;
+letter-spacing: 1px;
+
+font-family: 'Gentium Book Basic', serif;
+text-transform: lowercase;
+font-weight: 500;
+line-height: 2;
+
+
+}
+
+
+.line6{
+font-family: 'Open Sans', sans-serif;
+letter-spacing: 2.5px;
+font-size: 20px;
+text-transform: uppercase;
+font-weight: 700;
+display: inline;
+margin-top: 6px;
+margin-left: 8px;
+}
+
+.line7{
+font-family: 'Open Sans', sans-serif;
+font-size: 16px;
+font-family: 'Open Sans', sans-serif;
+font-size: 16px;
+
+}
+
+span.size2{
+font-family: 'Open Sans', sans-serif;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+}
+
+
+.intro{
+margin-top: 5%;
+padding:15px;
+margin-bottom: 5%;
+border-top: 1px solid #f26222;
+border-bottom: 1px solid #f26222;
+font-size: 30px;
+font-family: 'Gentium Book Basic', serif;
+font-style: italic;
+line-height: 1.3;
+width: 28% !important;
+text-align: center;
+}
+
+
+.column1{
+
+margin-right: 0px;
+overflow: hidden;
+padding-top: 144px;
+margin-left: 4%;
+
+}
+
+p{
+	font: 18px/26px 'Gentium Book Basic', serif;
+}
+
+
+.box{
+display: inline-block;
+
+}
+
+
+.column2{
+width: 43%;
+float:left;
+
+}
+
+img.john{
+width: 51%;
+margin-left: 5%;
+
+}
+
+p.paragraph{
+	float:left;
+}
+
+.column3{
+
+text-align: Center;
+font-size: 32px;
+font-family: 'Open Sans', sans-serif;
+line-height: 1.3;
+font-weight: 700;
+margin-top: 4%;
+}
+
+p.quote2{
+font-family: 'Open Sans', sans-serif;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.3;
+border-top: 1px solid #f26222;
+border-bottom: 1px solid #f26222;
+padding: 10px 0px;
+
+}
+
+.portrait{
+	
+}
+
+.blocks{
+position: absolute;
+width: 65%;
+right: 0%;
+
+margin-top: 6%;
+display: inline-block;
+}
+
+img{
+	width:100%;
+}
+
+
+
+.quote{
+
+
+text-align: center;
+margin-top: 3%;
+
+}
+
+.column4{
+	margin-top: 5%;
+}
+
+.image{
+	display: inline-block;
+	margin-top: 1%;
+}
+
+.contain{
+	display: inline-block;
+}
+
+
+
+@media screen and (max-width:989px){
+
+.intro{
+	width: 100% !important;
+	text-align: center;
+}
+
+.column1{
+	padding-top: 0px;
+}
+
+
+.box{
+	margin-top: 5%;
+}
+
+.image{
+padding-top: 30px !important;
+}
+
+
+span.type{
+font-family: 'Gentium Book Basic', serif;
+font-style: italic;
+font-weight: normal;
+font-size: 30px;	
+}
+
+}
+
+
+@media screen and (max-width:768px){
+	
+	.blocks{
+		position:relative;
+		margin-top: 0px;
+	}
+	
+	
+	.left-image, .title{
+		position: relative;
+		width:100% !important;		
+	}
+	
+	.title{
+		margin:0px;
+		height:45%;
+	}
+	
+	
+	.intro{
+		width: 100% !important;
+		text-align: center;
+	}
+	
+	.quote{
+		margin-top: 5%;
+	}
+	
+	
+	img.john{
+		width:100%;
+		margin: 0px;
+	}
+	p{
+		text-align: center;
+	}
+	
+	span.line7{
+		margin-top: 5%;
+		display: inline-block;
+	}
+	
+	span.line3{
+		line-height: 2;
+		
+	}
+	
+	span.size2{
+		font-size: 32px;
+	}
+	
+	.column1{
+		padding-top: 0px;
+	}
+	
+	.image{
+		padding-top:0 !important;
+	}
+}
+</style>
+
+</head>
+<body>
+	
+	<div class="wrapper">
+	
+		<div class="section da-show da-showgrid">
+
+		<!--<h1>Desktop A</h1>-->
+
+			<!-- class examples -->
+ <header class="contain da-all">  
+
+      <div class="left-image">
+		  	<img src="john5.jpg" class="portrait">
+	  </div>
+	  
+	  <div class="blocks">
+		  <img src="sandro4.png">
+	  </div> 
+
+   </header>
+	  
+	  <div class="title m-all">
+	
+		   <div class="gallery-info">
+		
+			<div class="gallery-name"> Catherine Edelman Gallery </div>
+			<div class="location"> 300 W. Superior </div>
+			<div class="date"> 11.09-01.31.15 </div>
+			<div class="site"> edelmangallery.com </div>
+		
+			</div>
+	
+	 </div>
+	 
+	 <div class="quote da-all">
+	 <p class="blurb"> <span class="line1">John Malkovich</span> <span class="line2"> poses in</span> <span class="line3"> Sandro Miller's</				span><span class="line5"> re-creations of</span> <span class="line6"> iconic photographs </span> 	
+		 </p>
+	 <span class="line7"> By Aimee Levitt</span>	
+     </div>
+     	
+     
+     <div class="box1 da-all">
+
+		 <div class="intro da1-da3 da-padin">
+
+			<span class="line">In </span><br><span class="size2">  "Malkovich,</span> <br><span class="size2"> Malkovich,</span><br><span class="size2">Malkovich,"</span><br>Miller pictures his<br> favorite subject in <br> some
+			of his all-time <br> favorite shots. </span>	
+ 
+		</div>
+  
+     
+  <div class="column1 da4-da8">
+	 <p> 
+	<span class="firstcharacter">T</span>he story behind Sandro Miller's new photo exhibit,"Malkovich, Malkovich,Malkovich," which opens 	this weekend at the Catherine Edelman Gallery, </mark>begins 17 years ago when Miller first met John Malkovich at the Steppenwolf 		Theatre, where Malkovich, a founding member of the company, was appearing in The Libertine and Miller was taking promotional photos. 	The	 two hit it off. In time, Malkovich would consider Miller his favorite photographer, and Miller would consider the actor his 		favorite subject. Malkovich proved just as expressive in front of Miller's camera as he was onstage or on-screen. "I can push 			interesting buttons with John, and he will go there," Miller says. "I don't have that kind of connection with anyone else."
+	</p>
+	</div>
+  </div>
+
+	
+  <div class="box">
+<div class="column2 da1-da4">
+	<p class="paragraph2">
+	So when Miller, who is self-taught, decided to pay homage to some of his favorite photographers by re-creating their most iconic shots, there was no question who he would use as his subject. He flew to the south of France, where Malkovich lives, to pitch the idea; he was afraid some nuances would get lost over e-mail. He needn't have worried: the actor loved it. Miller re-created 38 images from a wide variety of photographers, ranging from Irving Penn to Andy Warhol to Annie Leibovitz.He obsessed over details, including lighting, wardrobe, hair and makeup, and, in the case of Richard Avedon's Ronald Fisher, Beekeeper, Davis, California, May 9, the positioning of the correct number of (dead) bees on Malkovich's face and body. "If I can't put the photo next to the original," Miller says, "if it doesn't have the same impact, I've failed."
+	</p>
+	</div>
+
+
+	<div class="image"> <img src="john6.jpg" class="john da5-da8"> </div>
+ </div>
+
+	<div class="column3 da-all">
+		<p class="quote2">
+		"Miller re-created 38 images from a wide variety of photographers, ranging from Irving Penn to Andy Warhol to Annie Leibovitz."
+		</p>
+	</div>
+
+<div class="column4 da-all">
+	  <p>
+		Malkovich flew to Chicago for two separate shoots, each lasting several days. Sometimes he would do his own hair and makeup. 			"John would study the photos for a few minutes," says gallerist Catherine Edelman, "and in a few seconds, he would morph into the 		character."
+		He was fearless, Miller says, unafraid of being photographed naked or as a woman or even as Diane Arbus's creepy twin girls. "If 		you had told me a year ago that he would appear as Marilyn Monroe three different times, I would have said, 'Right.' But John 			Malkovich is the most confident man in the world." Each photograph will be printed and framed in the same style as the original, 		although Miller used a digital camera instead of film. (It was just too difficult to use replicas of old cameras.) At Expo 				Chicago in September, Edelman displayed three finished pieces in her booth and a binder with small reproductions of the rest. It 		drew large and curious crowds. 
+		After the show finishes its run in Chicago and moves on to New York and Paris, Miller plans to publish a book of the photos. 			Meanwhile, documentarians Greg Jacobs and Jon Siskel have filmed the photo shoots and are trying to track down and interview the 
+		"It's a huge project," says Edelman. "Sandro is beyond excited. This merges both his worlds, commercial photography and personal 		projects. He's finally getting his due in the fine-art world."
+	</p>
+   </div>
+
+		</div><!-- end Desktop A -->
+
+		<div class="section t-show t-showgrid">
+
+
+     		<div class="contain">  
+
+			      <div class="left-image t1-t3">
+					  	<img src="john5.jpg" class="portrait">
+				  </div>
+				  
+				  <div class="blocks">
+					  <img src="sandro4.png">
+				  </div> 
+
+			</div>
+	  
+			<div class="title t2-t4">
+	
+			   <div class="gallery-info">
+			
+						<div class="gallery-name"> Catherine Edelman Gallery </div>
+						<div class="location"> 300 W. Superior </div>
+						<div class="date"> 11.09-01.31.15 </div>
+						<div class="site"> edelmangallery.com </div>
+			
+			   </div>
+			   
+			</div>
+	 
+			<div class="quote t-all">
+				<p class="blurb"> <span class="line1">John Malkovich</span> <span class="line2"> poses in</span> <span 								class="line3"> Sandro Miller's</span><span class="line5"> re-creations of</span> <span class="line6"> iconic 					photographs </span> 	
+				</p>
+		
+				<span class="line7"> By Aimee Levitt</span>	
+			
+			</div>
+     
+     
+ 
+			<div class="box1 t-all">
+
+				<div class="intro t-all t-padin">
+
+				<span class="line">In </span><br><span class="size2">  "Malkovich,</span> <br><span class="size2"> Malkovich,</					span><br><span class="size2">Malkovich,"</span><br><span class="type">Miller pictures his<br> favorite subject in <br> some
+				of his all-time <br> favorite shots. </span>
+ 
+				</div>
+		
+		    </div>
+		    
+    
+			<div class="column1 t-all">
+				<p> 
+					<span class="firstcharacter">T</span>he story behind Sandro Miller's new photo exhibit,"Malkovich, Malkovich,Malkovich," which opens 	this weekend at the Catherine Edelman Gallery, </mark>begins 17 years ago when Miller first met John Malkovich at the Steppenwolf 		Theatre, where Malkovich, a founding member of the company, was appearing in The Libertine and Miller was taking promotional photos. 	The	 two hit it off. In time, Malkovich would consider Miller his favorite photographer, and Miller would consider the actor his 		favorite subject. Malkovich proved just as expressive in front of Miller's camera as he was onstage or on-screen. "I can push 			interesting buttons with John, and he will go there," Miller says. "I don't have that kind of connection with anyone else."
+					</p>
+			</div>
+  
+			<div class="image"> <img src="john6.jpg" class="john t-all"> </div>
+	
+			<div class="box">
+				<div class="column2 t-all">
+					<p class="paragraph2">
+	So when Miller, who is self-taught, decided to pay homage to some of his favorite photographers by re-creating their most iconic shots, there was no question who he would use as his subject. He flew to the south of France, where Malkovich lives, to pitch the idea; he was afraid some nuances would get lost over e-mail. He needn't have worried: the actor loved it. Miller re-created 38 images from a wide variety of photographers, ranging from Irving Penn to Andy Warhol to Annie Leibovitz.He obsessed over details, including lighting, wardrobe, hair and makeup, and, in the case of Richard Avedon's Ronald Fisher, Beekeeper, Davis, California, May 9, the positioning of the correct number of (dead) bees on Malkovich's face and body. "If I can't put the photo next to the original," Miller says, "if it doesn't have the same impact, I've failed."
+					</p>
+				</div>
+				
+			</div>
+
+		   
+
+
+	<div class="column3 t-all">
+		<p class="quote2">
+		"Miller re-created 38 images from a wide variety of photographers, ranging from Irving Penn to Andy Warhol to Annie Leibovitz."
+		</p>
+	</div>
+
+<div class="column4 t-all">
+	  <p>
+		Malkovich flew to Chicago for two separate shoots, each lasting several days. Sometimes he would do his own hair and makeup. 			"John would study the photos for a few minutes," says gallerist Catherine Edelman, "and in a few seconds, he would morph into the 		character."
+		He was fearless, Miller says, unafraid of being photographed naked or as a woman or even as Diane Arbus's creepy twin girls. "If 		you had told me a year ago that he would appear as Marilyn Monroe three different times, I would have said, 'Right.' But John 			Malkovich is the most confident man in the world." Each photograph will be printed and framed in the same style as the original, 		although Miller used a digital camera instead of film. (It was just too difficult to use replicas of old cameras.) At Expo 				Chicago in September, Edelman displayed three finished pieces in her booth and a binder with small reproductions of the rest. It 		drew large and curious crowds. 
+		After the show finishes its run in Chicago and moves on to New York and Paris, Miller plans to publish a book of the photos. 			Meanwhile, documentarians Greg Jacobs and Jon Siskel have filmed the photo shoots and are trying to track down and interview the 
+		"It's a huge project," says Edelman. "Sandro is beyond excited. This merges both his worlds, commercial photography and personal 		projects. He's finally getting his due in the fine-art world."
+	</p>
+   </div>
+
+		</div><!-- end Tablet -->
+
+		<div class="section m-show m-showgrid">
+
+		<!--<h1>Mobile</h1>-->
+
+			
+
+		
+			<!-- class examples -->
+		<div class="contain"> 
+		
+		  <div class="blocks m-all">
+		  <img src="sandro4.png">
+	  </div>  
+
+      <div class="left-image m-all">
+		  	<img src="john5.jpg" class="portrait">
+	  </div>
+	  
+	
+
+   </div>
+	  
+	  <div class="title">
+	
+		   <div class="gallery-info">
+		
+			<div class="gallery-name"> Catherine Edelman Gallery </div>
+			<div class="location"> 300 W. Superior </div>
+			<div class="date"> 11.09-01.31.15 </div>
+			<div class="site"> edelmangallery.com </div>
+		
+			</div>
+	
+	 </div>
+	 
+	 <div class="quote  m-all">
+	 <p class="blurb"> <span class="line1">John Malkovich</span> <span class="line2"> poses in</span> <span class="line3"> Sandro Miller's</				span><span class="line5"> re-creations of</span> <span class="line6"> iconic photographs </span> 	
+		 </p>
+		 <span class="line7"> By Aimee Levitt</span>	
+     </div>
+     
+     
+     <div class="box1 m-all">
+
+		 <div class="intro m-all m-padin">
+
+			<span class="line">In </span><br><span class="size2">  "Malkovich,</span> <br><span class="size2"> Malkovich,</span><br><span 			class="size2">Malkovich,"</span><br>Miller pictures his<br> favorite subject in <br> some
+			of his all-time <br> favorite shots. 	
+ 
+		</div>
+  
+     
+  <div class="column1 m-all">
+	 <p> 
+	<span class="firstcharacter">T</span>he story behind Sandro Miller's new photo exhibit,"Malkovich, Malkovich,Malkovich," which opens 	this weekend at the Catherine Edelman Gallery, </mark>begins 17 years ago when Miller first met John Malkovich at the Steppenwolf 		Theatre, where Malkovich, a founding member of the company, was appearing in The Libertine and Miller was taking promotional photos. 	The	 two hit it off. In time, Malkovich would consider Miller his favorite photographer, and Miller would consider the actor his 		favorite subject. Malkovich proved just as expressive in front of Miller's camera as he was onstage or on-screen. "I can push 			interesting buttons with John, and he will go there," Miller says. "I don't have that kind of connection with anyone else."
+	</p>
+	</div>
+  </div>
+
+	
+  <div class="box">
+<div class="column2 m-all">
+	<p class="paragraph2">
+	So when Miller, who is self-taught, decided to pay homage to some of his favorite photographers by re-creating their most iconic shots, there was no question who he would use as his subject. He flew to the south of France, where Malkovich lives, to pitch the idea; he was afraid some nuances would get lost over e-mail. He needn't have worried: the actor loved it. Miller re-created 38 images from a wide variety of photographers, ranging from Irving Penn to Andy Warhol to Annie Leibovitz.He obsessed over details, including lighting, wardrobe, hair and makeup, and, in the case of Richard Avedon's Ronald Fisher, Beekeeper, Davis, California, May 9, the positioning of the correct number of (dead) bees on Malkovich's face and body. "If I can't put the photo next to the original," Miller says, "if it doesn't have the same impact, I've failed."
+	</p>
+	</div>
+
+
+	<div class="image"> <img src="john6.jpg" class="john m-all"> </div>
+ </div>
+
+	<div class="column3 m-all">
+		<p class="quote2">
+		"Miller re-created 38 images from a wide variety of photographers, ranging from Irving Penn to Andy Warhol to Annie Leibovitz."
+		</p>
+	</div>
+
+<div class="column4 m-all">
+	  <p>
+		Malkovich flew to Chicago for two separate shoots, each lasting several days. Sometimes he would do his own hair and makeup. 			"John would study the photos for a few minutes," says gallerist Catherine Edelman, "and in a few seconds, he would morph into the 		character."
+		He was fearless, Miller says, unafraid of being photographed naked or as a woman or even as Diane Arbus's creepy twin girls. "If 		you had told me a year ago that he would appear as Marilyn Monroe three different times, I would have said, 'Right.' But John 			Malkovich is the most confident man in the world." Each photograph will be printed and framed in the same style as the original, 		although Miller used a digital camera instead of film. (It was just too difficult to use replicas of old cameras.) At Expo 				Chicago in September, Edelman displayed three finished pieces in her booth and a binder with small reproductions of the rest. It 		drew large and curious crowds. 
+		After the show finishes its run in Chicago and moves on to New York and Paris, Miller plans to publish a book of the photos. 			Meanwhile, documentarians Greg Jacobs and Jon Siskel have filmed the photo shoots and are trying to track down and interview the 
+		"It's a huge project," says Edelman. "Sandro is beyond excited. This merges both his worlds, commercial photography and personal 		projects. He's finally getting his due in the fine-art world."
+	</p>
+   </div>
+		</div><!-- end Mobile -->
+
+
+		
+	</div>
+	
+	<!-- Gridset overlay script - toggles grid overlay on and off - You can remove this if you want. -->
+<script src="https://get.gridsetapp.com/31546/overlay/"></script>	
+
+</body>
+</html>
