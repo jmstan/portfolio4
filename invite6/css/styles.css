@@ -33,15 +33,13 @@ h1.title{
    text-align: center;
    margin: 0px;
    font-style: normal;
+   font-family: 'fira-sans'; 
    color:#f86a4c;
    letter-spacing: 1px; 
    font-size: 72px;
 }
   
   
-.gradient{
-     font-family: 'fira-sans';    
-}  
 
 h2{
   font-family: 'fira-sans'; 
