@@ -209,11 +209,11 @@ margin-bottom: 3%;
 
 
 .polaroid-img{
-background-image: url('{{baseurl}}img/polaroid11.png');
+background-image: url('{{baseurl}}/img/polaroid11.png');
 } 
 
 .polaroid-img2{
-background-image: url('{{baseurl}}img/polaroid14.png');
+background-image: url('{{site.url}}/img/polaroid14.png');
 }
 
 .hackathon-img{
