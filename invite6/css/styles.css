@@ -68,8 +68,8 @@ margin-top: 22px;
 }
 
 
-.save{
-	margin-left: 45px;
+.save, .provide, .rsvp{
+	text-align: center;
 }
 
 form{
