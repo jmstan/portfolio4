@@ -1,0 +1,358 @@
+
+
+.wrapper{
+	overflow:hidden;
+	
+}
+
+.title2{
+
+    font-family: 'fira-sans'; 
+	margin: 0px;
+	font-size: 55px;
+	font-weight: 400;
+	color:#72524b;
+	text-align: center;
+	
+}
+
+
+h3{
+	font-style: normal;
+    font-family: 'fira-sans';  
+	 font-size: 34px;
+	 margin-bottom: 0px;
+	 letter-spacing: 1px;
+	 font-weight: 400;
+	 color:#72524b;
+	 margin-top: 0px;		
+}
+
+h1.title{
+   font-weight: 500;
+   text-align: center;
+   margin: 0px;
+   font-style: normal;
+   color:#f86a4c;
+   letter-spacing: 1px; 
+   font-size: 72px;
+}
+  
+  
+.gradient{
+     font-family: 'fira-sans';    
+}  
+
+h2{
+  font-family: 'fira-sans'; 
+  font-size: 23px;
+  margin:0px;
+  letter-spacing: 1.5px;
+  line-height: 1.5;
+  font-weight: 300;
+  color:#72524b; 
+  }
+  
+h4.title3{
+font-family: 'fira-sans'; 
+font-weight: 300;
+color:#72524b;
+font-size: 24px;
+font-style: normal;
+text-align: right;
+margin-top: 22px;
+}
+
+.winner{
+	margin-top: -27px;
+}
+
+
+.save{
+	margin-left: 45px;
+}
+
+form{
+	width:363px;  
+}
+
+input{
+	margin: 10px 10px 0px;
+	border:none;
+}
+
+
+h4{
+	display: inline-block;
+	margin:0px;
+}
+
+
+.email{
+
+}
+
+.last{
+	margin-right: 2px;
+}
+
+button{ 
+  margin-top: 10px;
+  border:none;
+  padding: 5px 10px;
+  background-color: #f86a4c;
+  color:white;
+  font-family: 'fira-sans'; 
+  clear:both;
+  font-size: 16px;
+}
+
+
+
+.date{
+	line-height: 1.2;
+	
+}
+
+
+.first, .last, .email{
+font-family: 'fira-sans'; 
+color:#72524b;
+letter-spacing: 1.5px;
+line-height: 1.7;
+font-weight: 300;
+font-size: 20px;
+
+
+}
+
+.details{
+	line-height: 1.5;
+	text-align: center;
+	color:#72524b;
+	padding: 5px;	
+}
+
+
+ul{
+	text-decoration: none;
+	list-style: none;
+	padding-left: 0px;
+}
+	
+
+ul li{
+	margin-left: 15px;	
+}
+
+li{
+	text-decoration: none;
+	list-style: none;
+
+}
+.sponsors > ul{
+	float:left;
+	display: inline-flex;
+}
+
+.sat{
+text-align: center;
+font-weight: 400;
+font-size: 41px;
+font-style: normal;
+font-family: 'fira-sans'; 
+color:#72524b;
+border-top:5px solid #f86a4c;
+border-bottom:5px solid #f86a4c;
+padding-top: 12px;
+padding-bottom: 12px;  
+}
+
+
+.line{
+border-top:1px solid #f86a4c;
+border-bottom:1px solid #f86a4c;	
+}
+
+.location{
+
+font-weight: 400;	
+font-size: 36px;
+font-style: normal;
+color:#72524b;
+font-family: 'fira-sans';  
+
+}
+
+
+.building{
+	font-weight: 700;
+  color: #72524b;
+}
+
+
+.where{
+	margin-top: -10px;
+	
+}
+
+
+.blue{
+	color: #4087fd;
+}
+
+input{
+	margin: 10px 10px 0px;
+	border:none;
+	width:175px;
+	height:25px;
+	background-color: lightgray;
+}
+
+
+
+label{
+	float:left;
+	clear:none;
+}
+
+.small{
+	font-size: 16px;
+	margin-top: 15px;
+}
+
+
+.vertical{
+	border-left:3px solid #72524b;
+	margin-left: 5px;
+}
+
+ .calendar1{
+margin-left: 10px;
+margin-top: 3px;
+
+}
+
+.calendar{
+color:	#f86a4c;
+}
+
+.email{
+	margin-right: 54px;
+}
+
+.last{
+	margin-right: 4px;
+}
+
+.sponsors{
+	letter-spacing: 1px;
+}
+
+
+
+.cal{
+	display: block;
+overflow: hidden;
+text-align: center;
+}
+
+.apple{
+	margin-top: -3px;
+}
+
+
+.microsoft{
+	margin-top: 5px;
+}
+
+.money, button.pay, .food{
+/*margin-left: 15px;*/
+	
+}
+
+
+@media screen and (max-width:989px){
+
+	.save, .provide, .rsvp{
+		text-align: center;
+	}
+	
+	form{
+	    width:307px;
+		margin: 0 auto;
+	}
+	
+	.sat{
+		font-size: 38px;
+	}
+	
+	h4.title3{
+		float: none;
+		text-align: center;
+		margin-top: -20px;
+	}
+}
+
+@media screen and (max-width:769px){
+	
+	.sat{
+		font-size: 24px;
+		display: block;
+	}
+	
+	.location{
+		font-size: 32px;
+	}
+	
+	.save.m-all, .provide, .rsvp{
+		text-align: center;
+	}
+	
+	form{
+	    width:307px;
+		margin: 0 auto;
+	}
+	
+	h4.title3{
+		float: none;
+		text-align: center;
+		margin-top: -20px;
+	}
+	
+	.sponsors.m-all {
+		float:none;
+		text-align: center;
+	}
+	
+	.sponsors > ul{
+		float:none;
+	}
+	
+	
+	ul{
+		text-align: center;
+		padding: 0px;
+	}
+	
+	h1.title{
+		font-size: 48px;
+	}
+	
+	h3.title2{
+		font-size: 36px;
+	}
+	
+	h3{
+		font-size: 30px;
+	}
+	
+	.first, .last, .email{
+		font-size: 18px;
+	}
+} 
+
+
+
+
+
