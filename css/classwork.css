@@ -209,7 +209,7 @@ margin-bottom: 3%;
 
 
 .polaroid-img{
-background-image: url('{{baseurl}}/img/polaroid11.png');
+background-image: url('{{site.url}}/img/polaroid11.png');
 } 
 
 .polaroid-img2{
@@ -217,19 +217,19 @@ background-image: url('{{site.url}}/img/polaroid14.png');
 }
 
 .hackathon-img{
-background-image: url('{{baseurl}}img/hackathon5.png');
+background-image: url('{{site.url}}/img/hackathon5.png');
 }
 
 .hackathon-img2{
-background-image: url('{{baseurl}}img/hackathon4.png');
+background-image: url('{{site.url}}/img/hackathon4.png');
 }	
 
 .gallery-img{
-background-image: url('{{baseurl}}img/gallery1.png');	
+background-image: url('{{site.url}}/img/gallery1.png');	
 }
 
 .gallery-img2{
-background-image: url('{{baseurl}}img/gallery3.png');	
+background-image: url('{{site.url}}/img/gallery3.png');	
 
 } 
 
