@@ -260,6 +260,9 @@ font-weight: 700;
 
 .outline{
 	border:1px solid lightgray;
+	box-sizing: border-box;
+	height: 100%;
+	position: absolute;
 }
 
 
