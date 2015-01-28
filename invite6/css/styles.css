@@ -101,6 +101,10 @@ button{
 }
 
 
+button.sub{
+	float:right;
+}
+
 
 .date{
 	line-height: 1.2;
@@ -251,8 +255,8 @@ color:	#f86a4c;
 
 .cal{
 	display: block;
-overflow: hidden;
-text-align: center;
+	overflow: hidden;
+	text-align: center;
 }
 
 .apple{
@@ -264,10 +268,7 @@ text-align: center;
 	margin-top: 5px;
 }
 
-.money, button.pay, .food{
-/*margin-left: 15px;*/
-	
-}
+
 
 
 @media screen and (max-width:989px){
