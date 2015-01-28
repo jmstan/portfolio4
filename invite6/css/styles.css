@@ -58,7 +58,7 @@ font-weight: 300;
 color:#72524b;
 font-size: 24px;
 font-style: normal;
-text-align: right;
+float:right;
 margin-top: 22px;
 }
 
@@ -144,6 +144,7 @@ ul li{
 li{
 	text-decoration: none;
 	list-style: none;
+	float:right;
 
 }
 .sponsors > ul{
