@@ -308,6 +308,11 @@ ul.fuji{
 	padding-left: 15px;
 }
 
+
+.box{
+	margin-bottom: 30px;
+}
+
 .box4{
 	border:1px solid black;
 }
@@ -318,12 +323,7 @@ position: relative;
 margin-bottom: 7%;
 }
 
-.box6{
-	border: 1px solid #e8e8e8;
-height: 99%;
-position: absolute;
 
-}
 
 .buy-title{
 	padding:5px 20px;
