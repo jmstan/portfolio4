@@ -162,6 +162,10 @@ li{
 	display: inline-flex;
 }
 
+.sponsor-block{
+	text-align: center;
+}
+
 .sat{
 text-align: center;
 font-weight: 400;
@@ -307,13 +311,17 @@ color:	#f86a4c;
 	}
 	
 	.title3{
-		float: left;
-		text-align: center;
-		margin-top: -20px;
+		float: none;
+		display: inline-block;
+		
 	}
 
 	.apple{
 		margin-right: 3px;
+	}
+
+	.sponsors{
+		display: inline-block
 	}
 
 
