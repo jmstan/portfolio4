@@ -393,6 +393,19 @@ top: 47%;
 }
 */
 
+
+@media screen and (max-width:768px){
+
+img{
+	width: 80%;
+}
+
+
+
+
+}
+
+
 @media screen and (max-width:768px){
 	
 	.title3.m-all{
