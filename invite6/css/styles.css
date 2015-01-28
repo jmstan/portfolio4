@@ -154,7 +154,7 @@ ul li{
 li{
 	text-decoration: none;
 	list-style: none;
-	float:right;
+	float:left;
 
 }
 .sponsors > ul{
@@ -310,6 +310,10 @@ color:	#f86a4c;
 		float: none;
 		text-align: center;
 		margin-top: -20px;
+	}
+
+	.apple{
+		margin-left: 15px;
 	}
 }
 
