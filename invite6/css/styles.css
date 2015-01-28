@@ -306,8 +306,8 @@ color:	#f86a4c;
 		font-size: 38px;
 	}
 	
-	h4.title3{
-		float: none;
+	.title3{
+		float: left;
 		text-align: center;
 		margin-top: -20px;
 	}
@@ -315,6 +315,8 @@ color:	#f86a4c;
 	.apple{
 		margin-right: 3px;
 	}
+
+
 }
 
 @media screen and (max-width:769px){
