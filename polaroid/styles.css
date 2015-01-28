@@ -345,7 +345,7 @@ top: 47%;
 	top: 62%;
 }
 
-@media screen and (max-width:1090px){
+/*@media screen and (max-width:1090px){
      
       .buy.line-left.t4-t5{
 	     margin-top: 3%;
@@ -387,11 +387,11 @@ top: 47%;
 	/*.main-image, .buy{
 		width:80%;
 		margin: 0 10% !important;
-	} */
+	} 
 
 	
 }
-
+*/
 
 @media screen and (max-width:768px){
 	
