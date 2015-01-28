@@ -221,7 +221,7 @@ font-weight: 700;
 }
 
 .main2{
-
+    height: 400px;
 	background-color: #4e4e4e;
 	padding: 20px 0px;
 }
@@ -241,6 +241,7 @@ font-weight: 700;
     text-align: center;
 	background-color: black;
 	bottom:0;
+	position: absolute;
 }
 
 .line-left{
