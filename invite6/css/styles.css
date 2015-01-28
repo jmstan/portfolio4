@@ -311,7 +311,7 @@ color:	#f86a4c;
 	}
 	
 	.title3{
-		float: none;
+		float: none !important;
 		display: inline-block;
 		
 	}
