@@ -62,6 +62,16 @@ float:right;
 margin-top: 22px;
 }
 
+.title3{
+	font-family: 'fira-sans'; 
+	font-weight: 300;
+	color:#72524b;
+	font-size: 24px;
+	font-style: normal;
+	float:right;
+	margin-top: 22px;
+}
+
 
 .save, .provide, .rsvp{
 	text-align: center;
