@@ -259,14 +259,22 @@ color:	#f86a4c;
 }
 
 .apple{
-	margin-top: -3px;
+	margin-top: 11px;
+	margin-right: 5px;
+}
+
+.starbucks{
+	margin-top: 13px;
 }
 
 
 .microsoft{
-	margin-top: 5px;
+	margin-top: 17px;
 }
 
+.dropbox{
+	margin-top: 14px;
+}
 
 
 
