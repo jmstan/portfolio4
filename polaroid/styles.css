@@ -207,7 +207,7 @@ font-weight: 700;
 
 
 .list{
-	
+	z-index:1;
 	text-align: left;
 }
 
