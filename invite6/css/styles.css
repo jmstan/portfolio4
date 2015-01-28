@@ -324,6 +324,10 @@ color:	#f86a4c;
 		display: inline-block
 	}
 
+	ul li:first-child{
+		margin-left: 0px;
+	}
+
 
 }
 
