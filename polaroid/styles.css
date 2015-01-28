@@ -209,6 +209,7 @@ font-weight: 700;
 .list{
 	z-index:1;
 	text-align: left;
+	display: block;
 }
 
 #mainDiv2{
@@ -463,6 +464,7 @@ top: 47%;
 	 
 	 .look-title, a.white{
 		 padding-left: 15px;
+		 display: block;
 	 }
 	 
 	 .look2{
