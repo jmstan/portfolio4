@@ -476,7 +476,7 @@ top: 47%;
 	 }
 	 
 	 .about-title, .specs-title, .compatible-title{
-		 margin-top: 4%;
+		 margin: 4% 0%;
 	 }
 	 
 	 .about-blurb, ul.specs-list{
