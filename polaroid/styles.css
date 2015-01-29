@@ -554,6 +554,11 @@ a{
 	 .condition-title, .specs-title, h2.compatible-title {
 	 	padding:0;
 	 }
+
+	 .contact{
+	 	width: 90%;
+	 	margin: 0 5%;
+	 }
 	 
 	 
 }
