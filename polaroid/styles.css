@@ -506,11 +506,6 @@ top: 47%;
 		 margin: 0 2.5% !important;	 
 	 }
 	 
-	 /*.buy {
-	      width: 95% !important;
-		 margin: -6% 2.5% 0 2.5% !important;		 
-	 
-	 }*/
 	 
 	 img{
 	 	width:80%;
@@ -524,6 +519,7 @@ top: 47%;
 	 width: 55px;
 	 height:42px;
 	 margin-top: 15px;
+	 margin-left: 20px;
 
 	 
 	 }
