@@ -426,6 +426,14 @@ top: 47%;
 	margin-left: 10px;
 }
 
+a{
+	font-style: 18px;
+}
+
+.compatible-title, .specs-title, .about-title{
+	font-size: 20px;
+}
+
 
 }
 
