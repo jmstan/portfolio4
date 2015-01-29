@@ -488,18 +488,14 @@ a{
 	}
 	 	 
 	
-	.about-blurb{
-		padding:0px;
-	}
-	 
-	.about-title{
+
+	.about-title, .look-title, a.white, .about-blurb{
 		padding: 0px;
-	}
+		}
 	 
 	 .look-title, a.white{
-;
 		 display: block;
-	 }
+		 }
 	 
 	 .look2{
 		 margin-bottom: 10px;
