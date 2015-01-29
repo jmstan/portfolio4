@@ -555,7 +555,7 @@ a{
 		margin: 2% 7.5% !important;
 	 }
 
-	 .condition-title, .specs-title, .compatible-title {
+	 .condition-title, .specs-title, h2.compatible-title {
 	 	padding:0;
 	 }
 	 
