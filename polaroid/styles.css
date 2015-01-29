@@ -550,7 +550,7 @@ a{
 	 }
 
 	 .box_1{
-	 	width:95%;
+	 	width:95% !important;
 	 	margin: 0 2.5%;
 	 }
 	 
