@@ -481,7 +481,7 @@ a{
 		font-size: 32px;
 	}
 	 
-	 .about-blurb, .specs-list, .condition-list, .fuji{
+   .specs-list, .condition-list, .fuji{
 	 	padding:0px 20px;
 	 }
 	 
