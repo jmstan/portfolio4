@@ -548,6 +548,11 @@ a{
 	 .last{
 	 	margin-bottom: 10px;
 	 }
+
+	 .box_1{
+	 	width:95%;
+	 	margin: 0 2.5%;
+	 }
 	 
 	 
 }
