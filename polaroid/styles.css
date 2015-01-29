@@ -482,11 +482,11 @@ a{
 	}
 	 
 	 .about-blurb, .specs-list, .condition-list, .fuji{
-	 	padding:5px 20px;
+	 	padding:0px 20px;
 	 }
 	 
 	 .about-title, .specs-title, .compatible-title{
-		 margin: 4% 0%;
+		
 	 }
 	 
 	 .about-blurb, ul.specs-list{
