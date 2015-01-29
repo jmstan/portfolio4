@@ -256,6 +256,8 @@ font-weight: 700;
 
 .about-blurb{
  padding: 30px 10px;
+ position: absolute;
+ top: 24%;
 }
 
 
@@ -308,8 +310,8 @@ ul.fuji{
 }
 
 .about-title{
-	/*position: absolute;
-	top: 19%; */
+	position: absolute;
+	top: 20%;
 	padding-left: 15px;
 }
 
