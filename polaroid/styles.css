@@ -481,7 +481,9 @@ a{
 		font-size: 32px;
 	}
 	 
-	 
+	 .about-blurb{
+	 	padding:5px 20px;
+	 }
 	 
 	 .about-title, .specs-title, .compatible-title{
 		 margin: 4% 0%;
