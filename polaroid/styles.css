@@ -485,9 +485,10 @@ a{
 	 	padding:0px 20px;
 	 }
 	 
-	 .about-title, .specs-title, .compatible-title{
-		
-	 }
+	
+	.about-blurb{
+		padding:0px;
+	}
 	 
 	 .about-blurb, ul.specs-list{
 		 margin-bottom: 4%;
@@ -551,7 +552,7 @@ a{
 
 	 .box_1{
 	 	width:95% !important;
-	 	margin: 0 2.5%;
+	 	margin: 2% 2.5%;
 	 }
 	 
 	 
