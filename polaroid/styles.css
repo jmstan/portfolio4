@@ -511,7 +511,7 @@ a{
 	 
 	 #mainImage2{
 		 width:90%;
-		 padding-left: 15px;
+		 
 	 }
 	 
 	 .img1,  .polaroid2{
@@ -553,8 +553,8 @@ a{
 	 }
 
 	 .box_1{
-	 	width: 85% !important;
-		margin: 2% 7.5% !important;
+	 	width: 90% !important;
+		margin: 2% 5% !important;
 	 }
 
 	 .condition-title, .specs-title, h2.compatible-title {
