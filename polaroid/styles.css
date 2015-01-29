@@ -452,7 +452,7 @@ a{
 	}
 	
 	.m-all > .yours, .m-all > a, .m-all > a, . > ul li > a, .m-all > ul li > a{
-		font-size: 18px;
+		font-size: 16px;
 	}
 	
 	buy.line-left.m-all{
@@ -464,7 +464,7 @@ a{
 	}
 	
 	 .m-all > a, .m-all > .yours, .m-all > a, .m-all > ul > li > a {
-		 font-size: 18px;
+		 font-size: 16px;
 	 }
 	 
 	 a.about-blurb, h2.about-title, ul.condition-list, h2.condition-title, ul.specs-list, h2.specs-title, ul.fuji,
