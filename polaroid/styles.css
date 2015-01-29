@@ -490,9 +490,9 @@ a{
 		padding:0px;
 	}
 	 
-	 .about-blurb, ul.specs-list{
-		 margin-bottom: 4%;
-	 }
+	.about-title{
+		padding: 0px;
+	}
 	 
 	 .look-title, a.white{
 		 padding-left: 15px;
@@ -551,8 +551,12 @@ a{
 	 }
 
 	 .box_1{
-	 	width:95% !important;
-	 	margin: 2% 2.5%;
+	 	width: 85% !important;
+		margin: 2% 7.5% !important;
+	 }
+
+	 .condition-title, .specs-title, .compatible-title {
+	 	padding:0;
 	 }
 	 
 	 
