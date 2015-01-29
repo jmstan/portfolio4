@@ -123,6 +123,12 @@ ul li{ text-indent:-5px; }
 	margin-bottom: 10px;
 }
 
+
+#mainImage2{
+	width: 80%;
+	margin: 0 10%;
+}
+
 .about{
 	
    border:1px solid #e8e8e8;
