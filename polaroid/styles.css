@@ -562,8 +562,8 @@ a{
 	 }
 
 	 .look2{
-	 	width: 90%;
-	 	margin: 0 5%;
+	 	width: 90% !important;
+	 	margin: 0 5% !important;
 	 	padding-left: 0px;
 	 }
 	 
