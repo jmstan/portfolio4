@@ -522,7 +522,7 @@ top: 47%;
 	 margin-left: 20px; 
 	 }
 
-	 .img-container2:first-of-type{
+	 .img-container2:first-of-type, .img-container2:nth-child(2n){
 	 	margin-left: 20px;
 	 	margin-top: 0px;
 	 }
