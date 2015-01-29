@@ -521,8 +521,8 @@ a{
 	 	width:80%;
 	 }
 	 
-	 .paypal{
-		 padding-left: 15px;
+	 .paypal > a{
+	 	padding-left: 20px;
 	 }
 	 
 	 .img-container2{
