@@ -50,88 +50,85 @@ table {
 
  body{
 	background-color: #f1f1f1;
-}
+	}
 
 
 .mainnav{ 
 	text-align: right;
-}
+	}
 
 span.bottom-line{
-border-top: 2px solid #cfcfcf;
-display: block;
-margin-top: 10px;
-}
+	border-top: 2px solid #cfcfcf;
+	display: block;
+	margin-top: 10px;
+	}
 
 .the{
-position: relative;
-margin-top: -22px;
-text-transform: capitalize;
-letter-spacing: 2px;
-display: inline-block;
-font-size: 28px;
-top: -14px;
-color: #4c4c4c;
-padding-bottom: 0px;
-}
+	position: relative;
+	margin-top: -22px;
+	text-transform: capitalize;
+	letter-spacing: 2px;
+	display: inline-block;
+	font-size: 28px;
+	top: -14px;
+	color: #4c4c4c;
+	padding-bottom: 0px;
+	}
 
 span.blackline{
 	border-top: 2px solid #4c4c4c;
-
-}
+	}
 
 .starter-title {
-padding: 0;
-margin: 0;
-float: none;
-font-family: "museo-sans";
-font-weight: 700;
-margin-top: 5%;
-color: black;
-letter-spacing: 2px;
-font-size: 46px;
-letter-spacing: 10px;
-color: #4c4c4c;
-text-align: center;
-text-transform: uppercase;
-padding-bottom: 8px;
-}
+	padding: 0;
+	margin: 0;
+	float: none;
+	font-family: "museo-sans";
+	font-weight: 700;
+	margin-top: 5%;
+	color: black;
+	letter-spacing: 2px;
+	font-size: 46px;
+	letter-spacing: 10px;
+	color: #4c4c4c;
+	text-align: center;
+	text-transform: uppercase;
+	padding-bottom: 8px;
+	}
 
 h2.visual-title{
-padding: 0;
-padding-bottom: 35px;
-margin: 0;
-float: none;
-color: black;
-font-weight: 600;
-letter-spacing: 4px;
-font-size: 22px;
-font-family: "freight-big-pro";
-text-align: center;
-margin-top: 15px;
-color: #4c4c4c;
-
-}
+	padding: 0;
+	padding-bottom: 35px;
+	margin: 0;
+	float: none;
+	color: black;
+	font-weight: 600;
+	letter-spacing: 4px;
+	font-size: 22px;
+	font-family: "freight-big-pro";
+	text-align: center;
+	margin-top: 15px;
+	color: #4c4c4c;
+	}
 
 h3.projects1{
 	float:none;
 	font-family: "myriad-pro-condensed";
 	font-size: 28px;
 	color:black;
-}
+	}
 
 h4.sales, h4.editorial, h4.invite, h4.resume{
 	margin:0;
 	padding:0;
 	font-size: 18px;
 	color:black;
-}
+	}
 
 
 h4.sales{
-	color: #1B7458;../index.html
-}
-
+	color: #1B7458;
+	}
 
 
 .challenge-title, .result-title{
@@ -140,20 +137,19 @@ h4.sales{
 	font-size: 22px;
 	color: black;
 	font-style: italic;	
-
-}
+	}
 
 .challenge, .result{
 	margin-top:25px;
-}
+	}
 
 .projects{
 	margin-top:20px;
-}
+	}
 
 p{
 	color:black;
-}
+	}
 
 p.inline-text{
 	color:white;
@@ -162,7 +158,7 @@ p.inline-text{
 	padding: 25px 10px;
 	font-family: "freight-big-pro";
 	text-align: left;
-}
+	}
 
 
 p.inline-text2{
@@ -172,40 +168,36 @@ p.inline-text2{
 	padding: 30px 10px 24px 10px;
 	font-family: "freight-big-pro";
 	text-align: left;
-}
-
-
+	}
 
 .sales-image{
 	margin-top: 20px;
-}
-
+	}
 
 img{
 	max-width: 100%;
 	display: block;
-}
+	}
 
 
 .version1, .version2{
- display: block;
- margin-top: 2%;
-}
+	display: block;
+	margin-top: 2%;
+	}
 
 .project1{
 	margin-top: 3%;
-}
+	}
 
 .image{
-
-background-size: cover;
-background-repeat: no-repeat;
-background-position: center;	
-width:100%;
-height: 375px;
-padding:0px;
-margin-bottom: 3%;	
-}
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;	
+	width:100%;
+	height: 375px;
+	padding:0px;
+	margin-bottom: 3%;	
+	}
 
 
 .polaroid-img{
