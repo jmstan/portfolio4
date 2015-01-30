@@ -325,12 +325,15 @@ color:	#f86a4c;
 	}
 
 	.sponsors{
-		display: inline-block
+		display: inline-block;
+		float:none;
 	}
 
 	ul li:first-child{
 		margin-left: 0px;
 	}
+
+
 
 
 }
