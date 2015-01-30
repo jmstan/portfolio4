@@ -208,6 +208,11 @@ img{
 	position: absolute;
 	}
 
+
+footer a{
+	padding-left: 0px;
+}
+
 .about-blurb{
 	 padding: 30px 10px;
 	 position: absolute;
