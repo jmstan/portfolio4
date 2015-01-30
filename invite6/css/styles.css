@@ -263,6 +263,8 @@ color:	#f86a4c;
 
 .sponsors{
 	letter-spacing: 1px;
+	float: right;
+	margin-right: 20px;
 }
 
 
