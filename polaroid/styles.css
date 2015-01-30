@@ -84,12 +84,21 @@ ul li:before{
 	content:"-"; 
 	position:relative; 
 	left:5px; 
+<<<<<<< HEAD
 	top:-2px;
 	margin-right: 6px;
 	}
 
 ul li{ 
 	text-indent:-5px; 
+=======
+	top:-2px; 
+	margin-right: 6px;
+	}
+
+ul li { 
+	text-indent:-5px;
+>>>>>>> parent of 5589d22... Revert 4a53432..4a69469
 	} 
 
 .specs{
@@ -124,6 +133,10 @@ ul li{
 
 .about{	
    border:1px solid #e8e8e8;
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 5589d22... Revert 4a53432..4a69469
 	}
 
 img{
