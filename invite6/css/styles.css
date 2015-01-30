@@ -53,13 +53,14 @@ h2{
   }
   
 h4.title3{
-font-family: 'fira-sans'; 
-font-weight: 300;
-color:#72524b;
-font-size: 24px;
-font-style: normal;
-float:left;
-margin-top: 22px;
+	font-family: 'fira-sans'; 
+	font-weight: 300;
+	color:#72524b;
+	font-size: 24px;
+	font-style: normal;
+	margin-top: 22px;
+	float: right;
+	margin-top: 36px;
 }
 
 .title3{
