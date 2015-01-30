@@ -343,114 +343,109 @@ a.buy-blurb{
 	
 	.title3.m-all{
 		font-size: 40px;
-	}
+		}
 	
 	.buy.line-left.m-all, .about.line-left.m-all, .specs.line-left.m-all, .about.line-right.m-all, 
 	.film.line-right.m-all{
 		margin-top:0px;
-	}
+		}
 	
 	.m-all > .yours, .m-all > a, .m-all > a, . > ul li > a, .m-all > ul li > a{
 		font-size: 16px;
-	}
+		}
 	
 	buy.line-left.m-all{
 		font-size: 18px;
-	}
+		}
 	
 	 .m-all > h2{
 		font-size: 20px;
-	}
+		}
 	
 	 .m-all > a, .m-all > .yours, .m-all > a, .m-all > ul > li > a {
 		 font-size: 16px;
-	 }
+	 	}
 	 
 	 a.about-blurb, h2.about-title, ul.condition-list, h2.condition-title, ul.specs-list, h2.specs-title, ul.fuji,
 	 h2.compatible-title{
 		 position: relative;
 		 top:0%;
-	 }
+	 	}
 	
 	.footer{
 		height:75px;
-	}
+		}
 	
 	.title3{
 		font-size: 32px;
-	}
+		}	
 	 	 
-	
-
 	.about-title, .look-title, a.white, .about-blurb{
 		padding: 0px;
 		}
 	 
-	 .look-title, a.white{
+	.look-title, a.white{
 		 display: block;
 		 }
 	 
-	 .look2{
+	.look2{
 		 margin-bottom: 10px;
-	 }
+	 	 }
 	 
 	 a{
 		 padding-left: 5px;
-	 }
+	 	 }
 	 
 	 #mainImage2{
 		 width:90%;
-		 
-	 }
+		 }
 	 
 	 .img1,  .polaroid2{
 		 width: 95% !important;
 		 margin: 0 2.5% !important;	 
-	 }
-	 
-	 
+	     }
+	  
 	 img{
 	 	width:80%;
-	 }
+	 	}
 	
 	 .img-container2{
-	 width: 55px;
-	 height:42px;
-	 margin-top: 8px;
-	 margin-left: 20px; 
-	 }
+		 width: 55px;
+		 height:42px;
+		 margin-top: 8px;
+		 margin-left: 20px; 
+		 }
 
 	 .img-container2:nth-child(1n) {
 	 	margin-left: 20px;
 	 	margin-top: 8px;
-	 }
+	 	}
 
 	 .img-container2:nth-child(2n){
 	 	margin-left: 20px;
-	 }
+	 	}
 
 	 .list{
 	 	margin-top: -6px;
-	 }
+	 	}
 
 	 .last{
 	 	margin-bottom: 10px;
-	 }
+	 	}
 
 	 .box_1{
 	 	width: 90% !important;
 		margin: 2% 5% !important;
-	 }
+	 	}
 
 	 .condition-title, .specs-title, h2.compatible-title {
 	 	padding:0;
-	 }
+	 	}
 
 	 .look2{
 	 	width: 90% !important;
 	 	margin: 0 5% !important;
 	 	padding-left: 0px;
-	 }
-	 
-	 
+	    }
+ 
 }
