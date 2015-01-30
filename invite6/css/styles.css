@@ -58,7 +58,7 @@ font-weight: 300;
 color:#72524b;
 font-size: 24px;
 font-style: normal;
-float:right;
+float:left;
 margin-top: 22px;
 }
 
@@ -275,7 +275,7 @@ color:	#f86a4c;
 
 .apple{
 	margin-top: 20px;
-	margin-right: 45px;
+	/*margin-right: 45px;*/
 }
 
 .starbucks{
