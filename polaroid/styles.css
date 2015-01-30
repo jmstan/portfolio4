@@ -80,52 +80,45 @@ ul	{
 	padding-left:15px;
 	}
 
-ul li:before{ 
-	content:"-"; 
-	position:relative; 
-	left:5px; 
-	top:-2px; 
-	margin-right: 6px;
-	}
-
-ul li { 
-	text-indent:-5px;
-	} 
+/*ul li:before{ content:"-"; position:relative; left:5px; top:-2px; margin-right: 6px;}
+ul li{ text-indent:-5px; } */
 
 .specs{
 	margin-top: 6%;
-	}
+
+}
 
 .condition-title, .look-title {
 	margin-top: 10px;
-	}
+}
 
 .condition-title, .specs-title, h2.compatible-title{
 	padding-left: 15px;
 	margin-bottom: 0px;
-	}
+}
 
 .look-title{
 	text-align: left;
 	color:white;
-	}
+}
 
 .white{
 	color:white;
 	padding-left: 0px;
 	margin-bottom: 10px;
-	}
+}
 
 
 #mainImage2{
 	width: 80%;
 	margin: 0 10%;
-	}
+}
 
-.about{	
+.about{
+	
    border:1px solid #e8e8e8;
-
-	}
+  /* height:387px; */
+}
 
 img{
 	max-width: 100%;
