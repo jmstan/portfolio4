@@ -96,12 +96,14 @@ ul li {
 	margin-top: 6%;
 	}
 
-.title {
+.condition-title, .look-title {
 	margin-top: 10px;
+	}
+
+.condition-title, .specs-title, h2.compatible-title{
 	padding-left: 15px;
 	margin-bottom: 0px;
 	}
-
 
 .look-title{
 	text-align: left;
@@ -122,39 +124,47 @@ ul li {
 
 .about{	
    border:1px solid #e8e8e8;
+
 	}
 
 img{
 	max-width: 100%;
 	display: block;
-	}
+}
+
 
 .film{
 	margin-top: 13%;
-	}
+}
+
+
 
 .title3{
-	z-index: 1;
-	font-family: "soleil";
-	font-style: normal;
-	font-weight: 500;
-	font-size: 42px;
-	margin: 2% 0%;
-	color: #4e4e4e;
-	text-align: center;
-	}
+z-index: 1;
+font-family: "soleil";
+font-style: normal;
+font-weight: 500;
+font-size: 42px;
+margin: 2% 0%;
+color: #4e4e4e;
+text-align: center;
+
+
+
+}
 
 .contact{
 	text-align: center;
-	z-index: 1;
-	font-family: "soleil";
-	font-style: normal;
-	font-weight: 300;
-	font-size: 16px;
-	color: white;
-	padding-top: 12px;
-	display: block;
-	}
+z-index: 1;
+font-family: "soleil";
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+color: white;
+padding-top: 12px;
+display: block;
+
+}
 
 .paypal{
 	margin-top: 20px;
