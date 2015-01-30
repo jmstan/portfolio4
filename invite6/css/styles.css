@@ -373,6 +373,10 @@ color:	#f86a4c;
 		float:none;
 	}
 	
+
+	.email{
+		margin-right: 48px;
+	}
 	
 	ul{
 		text-align: center;
