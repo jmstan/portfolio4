@@ -398,6 +398,10 @@ color:	#f86a4c;
 	.first, .last, .email{
 		font-size: 18px;
 	}
+
+	button{
+		float:right;
+	}
 } 
 
 
