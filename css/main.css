@@ -321,10 +321,6 @@ aside:last-child{
 
 @media screen and (max-width: 767px){
 
-  .portrait{
-    width:50%;
-    margin: 5% 25%;
-    } 
 
   .about-maintitle{
     font-size: 18px;
@@ -357,6 +353,11 @@ aside:last-child{
 
 
 @media screen and (max-width: 640px){
+
+  .portrait{
+    width:50%;
+    margin: 5% 25%;
+    } 
 
   .thumb, .thumb2, .thumb3, .thumb4{
     width:96% ;
