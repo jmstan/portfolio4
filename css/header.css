@@ -5,6 +5,11 @@ html *{
     color: #4c4c4c;
     }
 
+.wrapper{
+  min-height: 100%;
+  position: relative; 
+}
+
 header{
   margin-top: 3%;
   background-color: white;
