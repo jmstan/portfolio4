@@ -428,7 +428,7 @@ a.buy-blurb{
 	 	margin-left: 20px;
 	 	}
 
-	 .img-container2:nth-child(6n){
+	 .img-container2:nth-child(n){
 	 	margin-left: 0px;
 	 	}
 
