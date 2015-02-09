@@ -428,6 +428,10 @@ a.buy-blurb{
 	 	margin-left: 20px;
 	 	}
 
+	 .img-container2:nth-child(6n){
+	 	margin-left: 0px;
+	 	}
+
 	 .list{
 	 	margin-top: -6px;
 	 	}
