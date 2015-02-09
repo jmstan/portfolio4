@@ -205,7 +205,7 @@ img{
     text-align: center;
 	background-color: black;
 	bottom:0;
-	position: relative;
+	position: absolute;
 	}
 
 
@@ -342,10 +342,6 @@ a.buy-blurb{
 		font-size: 20px;
 		}
 
-    .footer{
-    	position: absolute;
-    }
-
 }
 
 
@@ -455,8 +451,4 @@ a.buy-blurb{
 	 	padding-left: 0px;
 	    }
  
-
-    .footer{
-    	position: absolute;
-    }
 }
