@@ -109,6 +109,11 @@ h6{
   max-width:75%;
 }
 
+
+aside > p{
+  margin-top: 1%;
+}
+
 .header2, .main-title{
   font-weight: 500;
   }
