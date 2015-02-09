@@ -451,4 +451,8 @@ a.buy-blurb{
 	 	padding-left: 0px;
 	    }
  
+
+    .main2{
+    	height: inherit;
+    }
 }
