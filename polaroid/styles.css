@@ -64,6 +64,7 @@ header{
 
 .look2{
 	text-align: left;
+	margin-top: -15px;
 	}
 
 
@@ -203,7 +204,7 @@ img{
     text-align: center;
 	background-color: black;
 	bottom:0;
-	position: absolute;
+	position: relative;
 	}
 
 
@@ -223,7 +224,7 @@ footer a{
 	border:1px solid lightgray;
 	box-sizing: border-box;
 	height: 100%;
-	position: relative;
+	position: absolute;
 	}
 
 .img-container2{
@@ -310,7 +311,7 @@ a.buy-blurb{
 	}
 
 .main-img-container2 {
-	padding: 20px 0px;
+	margin-bottom: 20px;
 	}
 
 @media screen and (max-width:989px){
