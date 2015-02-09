@@ -96,6 +96,10 @@ h6{
   font-weight: 500;
   }
 
+.preview{
+  margin-top: 2%;
+}
+
 .casestudy > p{
   font-size: 18px;
   text-align: left;
