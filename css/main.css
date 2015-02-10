@@ -497,12 +497,11 @@ aside:last-child{
 
   .preview > img, section > div > p, aside {
     width:80%;
-    margin: 0 10%;
+    margin: 0 auto;
   }
 
   .phone{
     max-width: 30%;
-    margin: 0 35%;
   }
 
   p{
