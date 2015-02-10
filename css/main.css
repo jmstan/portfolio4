@@ -148,7 +148,8 @@ aside > h5{
 }
 
 img.screenshot{
-  border: 2px solid gray;
+  border: 2px solid #d8d8d8;
+  border-radius: 5px;
 }
 
 .header2, .main-title{
