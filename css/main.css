@@ -146,6 +146,9 @@ aside > h5{
   text-align: left;
 }
 
+.screenshot{
+  border: 2px solid gray;
+}
 
 .header2, .main-title{
   font-weight: 500;
