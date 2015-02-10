@@ -491,6 +491,11 @@ aside:last-child{
     margin: 0 10% !important;
   }
 
+  .preview > img{
+    max-width: 30%;
+    margin: 35%;
+  }
+
 }
 
 
