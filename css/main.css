@@ -391,6 +391,8 @@ aside:last-child{
  .list-title, .skills, .interests-title{
   text-align: left;
   }
+
+
 }
 
 
@@ -483,6 +485,11 @@ aside:last-child{
     width: 96% !important;
     margin: 0 2% !important;
     }
+
+  .preview > img {
+    width:80%;
+    margin: 0 10%;
+  }
 
 }
 
