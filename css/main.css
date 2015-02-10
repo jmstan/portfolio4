@@ -96,6 +96,11 @@ h6{
   font-weight: 500;
   }
 
+
+section > h2{
+  text-align: center;
+}
+
 .preview{
   margin-top: 2%;
   border-radius: 5px;
