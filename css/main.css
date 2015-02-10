@@ -143,9 +143,11 @@ aside > h5{
   font-weight: 500;
   }
 
-.casestudy-title > p {
+.casestudy-about {
   text-align: left;
 }
+
+
 
 img.screenshot{
   border: 2px solid #d8d8d8;
