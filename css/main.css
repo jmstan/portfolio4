@@ -490,6 +490,10 @@ aside:last-child{
     text-align: center;
   }
 
+  section > h2 {
+    margin-bottom: 3%;
+  }
+
   .preview > img, section > div > p, aside {
     width:80%;
     margin: 0 10%;
@@ -526,4 +530,4 @@ aside:last-child{
     font-size: 16px;
   }  
  
-}
+}00
