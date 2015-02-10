@@ -149,6 +149,10 @@ aside > h5{
   margin-bottom: 5%;
 }
 
+.tearsheet{
+  max-width: 90%;
+}
+
 
 
 img.screenshot{
