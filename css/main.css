@@ -486,7 +486,7 @@ aside:last-child{
     margin: 0 2% !important;
     }
 
-  .preview > img {
+  .preview > img, section > p {
     width:80%;
     margin: 0 10%;
   }
