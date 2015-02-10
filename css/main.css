@@ -106,7 +106,7 @@ h6{
 }
 
 .phone{
-  max-width:56%;
+  max-width:75%;
 }
 
 
@@ -122,6 +122,10 @@ aside > p{
 
 aside > h4{
   margin-top:5%;
+}
+
+aside > h5{
+  margin-top: 3%;
 }
 
 .header2, .main-title{
