@@ -115,26 +115,29 @@ section > h2{
 
 .phone{
   max-width:75%;
-}
+  }
 
 
 aside.work{
   margin-top: 2%;
-}
+  }
 
 aside > p{
   margin-top: 1%;
   text-align: left;
   font-size: 16px;
-}
-
+  }
 
 aside > h4{
   margin-top:5%;
-}
+  }
 
 aside > h5{
   margin-top: 3%;
+  }
+
+.casestudy-title{
+  text-align: center;
 }
 
 .header2, .main-title{
