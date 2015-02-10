@@ -110,6 +110,10 @@ h6{
 }
 
 
+aside.work{
+  margin-top: 2%;
+}
+
 aside > p{
   margin-top: 1%;
   text-align: left;
