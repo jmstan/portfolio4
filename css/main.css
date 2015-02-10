@@ -486,6 +486,10 @@ aside:last-child{
     margin: 0 2% !important;
     }
 
+  aside.work, aside.work > p {
+    text-align: center;
+  }
+
   .preview > img, section > div > p, aside {
     width:80%;
     margin: 0 10%;
