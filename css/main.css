@@ -158,6 +158,10 @@ img.tearsheet{
   margin: 0 auto;
   }
 
+.tearsheets {
+  margin-top: 3%;
+}
+
 img.screenshot{
   border: 2px solid #d8d8d8;
   border-radius: 5px;
