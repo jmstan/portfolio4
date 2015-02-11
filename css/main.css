@@ -143,13 +143,13 @@ aside > h5{
   text-align: left;
   font-size: 16px;
   margin-bottom: 5%;
-}
+  }
 
 img.tearsheet{
   max-width: 95%;
-}
-
-
+  border: 2px solid lightgray;
+  border-radius: 5px;
+  }
 
 img.screenshot{
   border: 2px solid #d8d8d8;
