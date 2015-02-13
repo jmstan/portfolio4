@@ -553,7 +553,7 @@ aside:last-child{
     text-align: center;
   }
 
-  .work{
+  aside.work{
     display: block;
   }
 
