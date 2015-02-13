@@ -553,7 +553,7 @@ aside:last-child{
     text-align: center;
   }
 
-  .casestudy-about2{
+  .casestudy-about2, .overview-title{
     text-align: center;
   }
 
@@ -589,7 +589,7 @@ aside:last-child{
   }  
 
 
-  .casestudy-title, .casestudy-about2, aside.work, aside > p{
+  .casestudy-title, .casestudy-about2, .overview-title, aside.work, aside > p{
     text-align: center;
   }
 
