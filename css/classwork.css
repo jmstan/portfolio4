@@ -433,6 +433,15 @@ span.button-text{
 	span.head1{
 		font-size: 18px;
 	    }
+
+
+	.casestudy-title, .work{
+		text-align: center;
+	}
+
+	.work{
+		display: block;
+	}
 }
 
 
