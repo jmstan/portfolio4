@@ -435,11 +435,11 @@ span.button-text{
 	    }
 
 
-	.casestudy-title, .work{
+	.casestudy-title, aside.work{
 		text-align: center;
 	}
 
-	.work{
+	aside.work{
 		display: block;
 	}
 }
