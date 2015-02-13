@@ -554,7 +554,7 @@ aside:last-child{
   }
 
   .work{
-    text-align: center;
+    display: block;
   }
 
 }
