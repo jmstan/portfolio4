@@ -577,5 +577,14 @@ aside:last-child{
   .interests-blurb, .about{
     font-size: 16px;
   }  
+
+  
+  .casestudy-title, aside.work{
+    text-align: center;
+  }
+
+  aside.work{
+    display: block;
+  }
  
-}00
+}
