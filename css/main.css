@@ -119,9 +119,10 @@ section > h2{
   }
 
 
-aside > .work{
+aside.work{
   margin-top: 1%;
   display: block;
+
   }
 
 aside > p{
