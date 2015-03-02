@@ -121,8 +121,7 @@ section > h2{
 
 aside.work{
   margin-top: 1%;
-  display: block;
-
+  display: block !important;
   }
 
 aside > p{
