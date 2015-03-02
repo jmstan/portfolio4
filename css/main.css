@@ -422,6 +422,10 @@ aside:last-child{
 
  ul li:first-child{
   margin-left: 0px;
+ }
+
+ .list-title{
+  margin-top: 3%;
  } 
 
  .list-title, .skills, .interests-title{
