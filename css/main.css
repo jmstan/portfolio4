@@ -424,9 +424,6 @@ aside:last-child{
   margin-left: 0px;
  }
 
- .list-title{
-  margin-top: 3%;
- } 
 
  .list-title, .skills, .interests-title{
   text-align: left;
@@ -512,6 +509,11 @@ aside:last-child{
   .list-title, .skills, .interests-title, .name, .caption, .role, .link{
     text-align: center;
     }
+
+   .list-title{
+    margin-top: 3%;
+    } 
+
 
   .name{
     margin-top: 10%;
