@@ -346,7 +346,12 @@ aside:last-child{
   background-image: url('../img/MG_1773.jpg');
   }
 
-.story1, .story2{
+.story2{
+  margin-left: 1%;  
+  background-image: url('../img/iceroad1.jpg');
+  }
+
+.story1, .story2, .story3{
     background-size: cover;
     background-position:center;
     overflow: hidden;
@@ -358,7 +363,7 @@ aside:last-child{
   letter-spacing: 1px;
   }
 
-.story1_link, .story2_link{
+.story1_link, .story2_link, .story3_link{
   line-height: 20;
   text-align:center;
   }
