@@ -349,7 +349,7 @@ aside:last-child{
 .story3{
   margin-left: 1%;  
   background-image: url('../img/iceroad1.jpg');
-  width:100%;
+  width:100% !important;
   }
 
 
@@ -357,6 +357,7 @@ aside:last-child{
     background-size: cover;
     background-position:center;
     overflow: hidden;
+    background-repeat: no-repeat;
 }
  
 .story1_link, .story2_link, .story3_link{
